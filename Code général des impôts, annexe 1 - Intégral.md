@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1990-06-15
+Version Consolidée au 1993-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16,20 +16,20 @@ Version Consolidée au 1990-06-15
 ###### Article 27
 
 Les fabricants et marchands d'appareils et de portions d'appareils propres à la distillation, à la fabrication ou au
-repassage d'eaux-de-vie ou d'esprits sont tenus d'inscrire sur le registre prévu par l'article 304 du code général des impôts
-[*mentions obligatoires*] :
+repassage d'eaux-de-vie ou d'esprits sont tenus d'inscrire sur le registre prévu par l'article 304 du code général des
+impôts :
 
 1° Les dates de leurs fabrications et de leurs réceptions successives, avec la désignation de la nature et de la capacité ou
-des dimensions des appareils ou portions d'appareils et, s'il y a lieu, les mentions figurant sur les acquits-à-caution;
+des dimensions des appareils ou portions d'appareils et, s'il y a lieu, les mentions figurant sur les acquits-à-caution ; 
 
 2° Les dates des livraisons, les mentions des expéditions soumissionnées pour la mise en circulation des appareils et
-portions d'appareils, ainsi que la désignation de la nature et de la capacité ou des dimensions de ces objets.
+portions d'appareils, ainsi que la désignation de la nature et de la capacité ou des dimensions de ces objets. 
 
 Ces inscriptions ont lieu au fur et à mesure de l'achèvement, de la réception ou de la livraison des appareils et portions
-d'appareils.
+d'appareils. 
 
 Le registre sur lequel elles sont consignées doit être conforme au modèle donné par l'administration et être coté et paraphé
-par le service des impôts.
+par le service des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -37,9 +37,14 @@ par le service des impôts.
 
 	  - CGI 304
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 1 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 29
@@ -67,71 +72,86 @@ formalité.
 ###### Article 30
 
 Les appareils et portions d'appareils non encore soumis à cette formalité sont poinçonnés dès que le destinataire non
-fabricant ou marchand en a pris possession.
+fabricant ou marchand en a pris possession. 
 
 Lorsqu'une ou plusieurs portions d'un appareil poinçonné sont remplacées ou ont subi des réparations ou des transformations
-ayant fait disparaître la marque, cette marque est réapposée.
+ayant fait disparaître la marque, cette marque est réapposée. 
 
 Le détenteur d'un appareil réparé ou transformé doit requérir, par une déclaration au bureau de déclarations de la direction
-générale des impôts, l'apposition de la marque dès la réception de cet appareil, ou dans le délai de cinq jours après
-l'achèvement des travaux de réparation ou de transformation.
+générale des douanes et droits indirects, l'apposition de la marque dès la réception de cet appareil, ou dans le délai de
+cinq jours après l'achèvement des travaux de réparation ou de transformation.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 2 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 32
 
 Les appareils et portions d'appareils sont agencés de manière à pouvoir être scellés par des plombs. A défaut de cette
 condition, les agents peuvent exiger l'apposition aux endroits qu'ils désignent, de boucles ou crampons métalliques rivés
-intérieurement.
+intérieurement. 
 
 Les agents peuvent, en outre, apposer sur telle partie des appareils et portions d'appareils qu'ils jugent convenable des
 scellements susceptibles d'être détruits ou altérés par le fait de la mise en activité. Ils ont également, pour les appareils
 chauffés à feu nu, la faculté d'exiger que la porte du foyer placé sous chacun d'eux soit disposée de telle sorte qu'elle
-puisse être maintenue fermée par un plomb.
+puisse être maintenue fermée par un plomb. 
 
 Les scellements doivent être représentés intacts. Sauf le cas prévu ci-après, ils ne peuvent être enlevés qu'en présence des
-agents.
+agents. 
 
 Les demandes de descellement énoncent les motifs pour lesquels les agents sont requis de procéder à cette opération. Elles
-sont faites au bureau de déclarations de la direction générale des impôts au moins trois jours à l'avance. Si les agents ne
-sont pas intervenus pour rompre les scellés, trois heures après celle fixée par le déclarant, celui-ci peut les briser, sauf
-à remettre les plombs auxdits agents lors de leur plus prochaine visite.
+sont faites au bureau de déclarations de la direction générale des douanes et droits indirects au moins trois jours à
+l'avance. Si les agents ne sont pas intervenus pour rompre les scellés, trois heures après celle fixée par le déclarant,
+celui-ci peut les briser, sauf à remettre les plombs auxdits agents lors de leur plus prochaine visite. 
 
 Dès l'achèvement des travaux ou la cessation des causes qui avaient motivé le descellement, les détenteurs doivent faire au
-bureau de déclarations de la direction générale des impôts une déclaration pour que leurs appareils et portions d'appareils
-soient replacés sous scellés. Ils cessent d'être soumis aux visites de nuit le lendemain du jour où leur déclaration a été
-faite si, par le fait des agents, les scellés n'ont pas été apposés. Le délai est prorogé de vingt-quatre heures lorsque la
-déclaration précède un jour de fête légale.
+bureau de déclarations de la direction générale des douanes et droits indirects une déclaration pour que leurs appareils et
+portions d'appareils soient replacés sous scellés. Ils cessent d'être soumis aux visites de nuit le lendemain du jour où leur
+déclaration a été faite si, par le fait des agents, les scellés n'ont pas été apposés. Le délai est prorogé de vingt-quatre
+heures lorsque la déclaration précède un jour de fête légale.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 3 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 33
 
 Les détenteurs d'appareils ou portions d'appareils qui veulent les détruire sont tenus d'en faire la déclaration au bureau de
-déclarations de la direction générale des impôts.
+déclarations de la direction générale des douanes et droits indirects. 
 
 La destruction ne peut avoir lieu qu'en présence des agents, qui en dressent procès-verbal.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 4 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### III : Bouilleurs de cru
 
-##### Généralités.
+##### 1° : Généralités
 
 ###### Article 37
 
@@ -139,18 +159,19 @@ Les articles 38 à 42, 44 à 56 et l'article R. 30-1 du livre des procédures fi
 qui :
 
 1° Exception faite du sucrage des vendanges ou des moûts de raisins opéré dans les limites et conditions légales, n'ajoutent
-à leurs récoltes aucun produit susceptible d'en augmenter la teneur en alcool ;
+à leurs récoltes aucun produit susceptible d'en augmenter la teneur en alcool ; 
 
 2° Ne reçoivent du dehors aucune quantité de matières premières de la nature de celles qu'ils entendent distiller, à moins
-qu'ils ne déclarent au préalable ces matières au bureau de déclarations de la direction générale des impôts et ne s'engagent
-à les représenter au service des impôts, jusqu'à l'achèvement de leurs distillations.
+qu'ils ne déclarent au préalable ces matières au bureau de déclarations de la direction générale des douanes et droits
+indirects et ne s'engagent à les représenter au service des douanes et droits indirects, jusqu'à l'achèvement de leurs
+distillations. 
 
 Sont soumis aux règles tracées par les articles 57 à 91 :
 
 a. Les propriétaires récoltants ne remplissant pas ces conditions ;
 
 b. Ceux qui exercent, par eux-mêmes ou par l'intermédiaire d'associés, la profession de débitant ou de marchand en gros
-d'alcools, dans le canton du lieu de distillation et les communes limitrophes de ce canton ;
+d'alcools, dans le canton du lieu de distillation et les communes limitrophes de ce canton ; 
 
 c. Les bouilleurs de cru convaincus d'avoir enlevé ou laissé enlever de chez eux des spiritueux sans expédition ou avec une
 expédition inapplicable et qui ont été privés, par décision judiciaire ou transaction, du bénéfice du régime des bouilleurs
@@ -160,18 +181,21 @@ de cru pour toute la durée de la campagne en cours et de la campagne suivante.
 
 	**Cite**:
 
-	  - CGI R30-1
-	  - CGIAN1 38 A CGIAN1 42
-	  - CGIAN1 44 A CGIAN1 56
-	  - CGIAN1 57 A CGIAN1 91
+	  - CGIAN1 38 à 42, 44 à 56, 57 à 91
+	  - Livre des procédures fiscales R30-1
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°93-310 du 9 mars 1993 - art. 5 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### 2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation
@@ -216,6 +240,95 @@ litres d'alcool pur ou dont la distillation ne dure pas plus de vingt-quatre heu
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 50 (V)
+
+
+###### Article 39
+
+La déclaration prescrite par l'article 312 du code général des impôts doit être faite trois jours au moins avant le
+commencement des travaux, au bureau de déclarations de la direction générale des douanes et droits indirects dont dépend la
+localité où ces travaux s'effectueront. 
+
+Cette déclaration indique :
+
+1° Les numéros de poinçonnement des alambics à utiliser ; 
+
+2° L'emplacement de la brûlerie ; 
+
+3° La date du commencement des travaux et leur durée présumée, ainsi que les heures pendant lesquelles la brûlerie sera
+chaque jour en activité ; 
+
+4° La nature des matières premières à distiller et le lieu où elles ont été récoltées ; 
+
+5° S'il y a lieu, le volume et le rendement minimal par hectolitre pour chaque espèce de matières à distiller ou pour chaque
+lot de matières de même espèce ayant un titre alcoométrique volumique différent. 
+
+Les déclarations modificatives concernant la mise en oeuvre de nouvelles matières doivent être faites dans le même délai ;
+
+les autres déclarations modificatives peuvent être faites vingt-quatre heures seulement à l'avance. 
+
+Les matières déclarées pour la distillation doivent être mises à part. Si les déclarations comprennent plusieurs lots d'une
+même espèce de matières ayant une richesse alcoolique différente, ces lots doivent également être séparés les uns des autres.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 312
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 6 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 44 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 54 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 40
+
+Les bouilleurs doivent inscrire, au fur et à mesure des opérations, sur un registre qui est mis à leur disposition, la nature
+et la quantité des matières premières versées dans l'alambic, le numéro, s'il y a lieu, du lot d'où elles proviennent, la
+date et l'heure du commencement et celles de la fin du chargement de l'appareil.
+
+Dans les brûleries où chaque chargement d'alambic comprend une quantité uniforme de matières, cette quantité est constatée au
+début de la campagne, dans un texte libellé en tête du registre des agents et dûment signé par le bouilleur. Dans ce cas, le
+bouilleur est dispensé d'inscrire, pour chaque chargement, la quantité de matières introduites dans l'appareil à distiller. 
+
+Lorsque le chargement des alambics est continu, une seule inscription est faite par le bouilleur à la fin de chaque journée.
+Toutefois, une inscription doit également être faite à chaque interruption de travaux et à chaque visite des agents. Cette
+inscription comprend l'ensemble des quantités de matières premières soumises à la distillation depuis la précédente
+inscription. 
+
+Le registre prévu par le premier alinéa est fourni gratuitement par l'administration et doit être représenté à toute
+réquisition du service. Il est remis au service immédiatement après l'achèvement des travaux ou dès son épuisement. 
+
+Les bouilleurs qui ne produisent pas plus de cinquante litres d'alcool pur ou dont la distillation ne dure pas plus de vingt-
+quatre heures consécutives sont admis à consigner, au verso de l'ampliation de la déclaration faite au bureau de déclarations
+de la direction générale des douanes et droits indirects en vertu de l'article 39, les inscriptions prescrites par les trois
+premiers alinéas du présent article. Ils doivent, dans les vingt-quatre heures après l'achèvement de la fabrication,
+rapporter cette ampliation audit bureau après avoir signé les inscriptions faites par eux; il leur en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 39
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGIAN1 42
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 7 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 
 ###### Article 41
@@ -368,97 +481,13 @@ matières premières non représentées, seule la portion du manquant au-delà d
 	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation.
-
-###### Article 39
-
-La déclaration prescrite par l'article 312 du code général des impôts doit être faite trois jours au moins avant le
-commencement des travaux, au bureau de déclarations de la direction générale des impôts dont dépend la localité où ces
-travaux s'effectueront.
-
-Cette déclaration indique [*mentions*] :
-
-1° Les numéros de poinçonnement des alambics à utiliser ;
-
-2° L'emplacement de la brûlerie ;
-
-3° La date du commencement des travaux et leur durée présumée, ainsi que les heures pendant lesquelles la brûlerie sera
-chaque jour en activité ;
-
-4° La nature des matières premières à distiller et le lieu où elles ont été récoltées ;
-
-5° S'il y a lieu, le volume et le rendement minimal par hectolitre pour chaque espèce de matières à distiller ou pour chaque
-lot de matières de même espèce ayant un titre alcoométrique volumique différent.
-
-Les déclarations modificatives concernant la mise en oeuvre de nouvelles matières doivent être faites dans le même délai ;
-les autres déclarations modificatives peuvent être faites vingt-quatre heures seulement à l'avance.
-
-Les matières déclarées pour la distillation doivent être mises à part. Si les déclarations comprennent plusieurs lots d'une
-même espèce de matières ayant une richesse alcoolique différente, ces lots doivent également être séparés les uns des autres.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 312
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 44 (V)
-	  - Code général des impôts annexe 1, CGIAN1. - art. 54 (V)
-
-
-###### Article 40
-
-Les bouilleurs doivent inscrire, au fur et à mesure des opérations, sur un registre qui est mis à leur disposition, la nature
-et la quantité des matières premières versées dans l'alambic, le numéro, s'il y a lieu, du lot d'où elles proviennent, la
-date et l'heure du commencement et celles de la fin du chargement de l'appareil [*mentions obligatoires*].
-
-Dans les brûleries où chaque chargement d'alambic comprend une quantité uniforme de matières, cette quantité est constatée au
-début de la campagne, dans un texte libellé en tête du registre des agents et dûment signé par le bouilleur. Dans ce cas, le
-bouilleur est dispensé d'inscrire, pour chaque chargement, la quantité de matières introduites dans l'appareil à distiller.
-
-Lorsque le chargement des alambics est continu, une seule inscription est faite par le bouilleur à la fin de chaque journée.
-Toutefois, une inscription doit également être faite à chaque interruption de travaux et à chaque visite des agents. Cette
-inscription comprend l'ensemble des quantités de matières premières soumises à la distillation depuis la précédente
-inscription.
-
-Le registre prévu par le premier alinéa est fourni gratuitement par l'administration et doit être représenté à toute
-réquisition du service. Il est remis au service immédiatement après l'achèvement des travaux ou dès son épuisement.
-
-Les bouilleurs qui ne produisent pas plus de cinquante litres d'alcool pur ou dont la distillation ne dure pas plus de vingt-
-quatre heures consécutives sont admis à consigner, au verso de l'ampliation de la déclaration faite au bureau de déclarations
-de la direction générale des impôts en vertu de l'article 39, les inscriptions prescrites par les trois premiers alinéas du
-présent article. Ils doivent, dans les vingt-quatre heures après l'achèvement de la fabrication, rapporter cette ampliation
-audit bureau après avoir signé les inscriptions faites par eux; il leur en est délivré récépissé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 39
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGIAN1 42 (dispense des obligations de l'article 40, pour certains bouilleurs)
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Bouilleurs de cru faisant distiller dans un atelier public.
+##### 3° : Bouilleurs de cru faisant distiller dans un atelier public.
 
 ###### Article 48
 
 Aucune distillation ne peut être effectuée en atelier public pour le compte de bouilleurs de cru qu'après une déclaration
-faite trois jours au moins à l'avance [*délai*] au directeur des services fiscaux de la circonscription [*autorité
-compétente*].
+faite trois jours au moins à l'avance au directeur régional des douanes et droits indirects territorialement compétent pour
+la circonscription.
 
 Si l'atelier de distillation est établi dans des locaux ou sur des emplacements clos, il ne peut avoir aucune communication
 intérieure avec des locaux non occupés par l'exploitant ou dans lesquels celui-ci exercerait un commerce de boissons ou
@@ -468,55 +497,15 @@ L'administration notifie à l'exploitant les jours et heures pendant lesquels la
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50
-
-La déclaration prescrite par l'article 48 doit indiquer la situation exacte du local ou de l'emplacement où la distillation
-aura lieu, les numéros de poinçonnement des alambics devant être utilisés, les jours et heures auxquels l'exploitant demande
-à commencer les travaux, ainsi que leur durée approximative [*mentions obligatoires*].
-
-L'exploitant doit, au fur et à mesure de la réception des matières premières à distiller, inscrire, sans rature ni surcharge,
-sur un registre-journal, coté et paraphé par le service, et conforme au modèle donné par l'administration, les espèces et
-quantités des matières premières qui lui sont livrées, le nom et l'adresse des récoltants à qui elles appartiennent et
-l'analyse des expéditions qui ont accompagné les matières à distiller.
-
-S'il s'agit de bouilleurs de cru produisant plus de cinquante litres d'alcool pur ou dont les matières ne peuvent être
-distillées en totalité dans la journée où l'apport a été fait, il inscrit également le rendement minimal des matières
-premières, tel qu'il est déterminé à l'article 38.
-
-En regard de ces inscriptions, l'exploitant indique, au fur et à mesure de ses opérations :
-
-1° Les jours et heures de la mise en distillation desdites matières et les quantités versées dans l'alambic ;
-
-2° Le résultat de chaque chauffe ou repasse (volume et titre alcoométrique volumique des produits obtenus en cas d'emploi
-d'alambics à marche continue).
-
-L'exploitant est tenu de déposer au bureau de déclarations de la direction générale des impôts le lendemain au plus tard du
-jour où les travaux ont pris fin, pour chaque récoltant, les acquits-à-caution utilisés pour le transport des matières
-premières et une ampliation, dûment signée, des inscriptions faites pour ce récoltant sur le registre prévu au présent
-article. Il remet au récoltant une ampliation semblable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 38
-	  - CGIAN1 48
-
 	**Modifié par**:
 
-	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 8 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°81-866 1981-09-15
+	  - HISTO: Edition du 18 août 1993
 
-
-##### 3° : Bouilleurs de cru faisant distiller dans un atelier public.
 
 ###### Article 49
 
@@ -529,6 +518,49 @@ s'effectuent respectivement sous le lien d'acquits-à-caution qui sont seulement
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 50 (V)
+
+
+###### Article 50
+
+La déclaration prescrite par l'article 48 doit indiquer la situation exacte du local ou de l'emplacement où la distillation
+aura lieu, les numéros de poinçonnement des alambics devant être utilisés, les jours et heures auxquels l'exploitant demande
+à commencer les travaux, ainsi que leur durée approximative.
+
+L'exploitant doit, au fur et à mesure de la réception des matières premières à distiller, inscrire, sans rature ni surcharge,
+sur un registre-journal, coté et paraphé par le service, et conforme au modèle donné par l'administration, les espèces et
+quantités des matières premières qui lui sont livrées, le nom et l'adresse des récoltants à qui elles appartiennent et
+l'analyse des expéditions qui ont accompagné les matières à distiller. 
+
+S'il s'agit de bouilleurs de cru produisant plus de cinquante litres d'alcool pur ou dont les matières ne peuvent être
+distillées en totalité dans la journée où l'apport a été fait, il inscrit également le rendement minimal des matières
+premières, tel qu'il est déterminé à l'article 38. 
+
+En regard de ces inscriptions, l'exploitant indique, au fur et à mesure de ses opérations :
+
+1° Les jours et heures de la mise en distillation desdites matières et les quantités versées dans l'alambic ; 
+
+2° Le résultat de chaque chauffe ou repasse (volume et titre alcoométrique volumique des produits obtenus en cas d'emploi
+d'alambics à marche continue). 
+
+L'exploitant est tenu de déposer au bureau de déclarations de la direction générale des douanes et droits indirects le
+lendemain au plus tard du jour où les travaux ont pris fin, pour chaque récoltant, les acquits-à-caution utilisés pour le
+transport des matières premières et une ampliation, dûment signée, des inscriptions faites pour ce récoltant sur le registre
+prévu au présent article. Il remet au récoltant une ampliation semblable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 48, 38
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 9 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 51
@@ -587,6 +619,35 @@ responsables des droits afférents aux manquants constatés audit compte.
 
 ##### 4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.
 
+###### Article 54
+
+Les brûleries coopératives ou syndicales des récoltants sont soumises aux dispositions suivantes : 
+
+Les gérants ou délégués doivent fournir, huit jours au moins avant toute opération, au directeur régional des douanes et
+droits indirects, la justification de la constitution régulière de l'association, les statuts, une liste des membres de
+l'association indiquant les nom, prénoms et domicile de chacun d'eux, avec la date de son admission, un plan intérieur avec
+légende permettant de constater que les locaux satisfont aux prescriptions de l'article 320, deuxième alinéa, du code général
+des impôts, enfin la justification de leur propre qualité de délégué ou de gérant. 
+
+Les modifications apportées soit à l'organisation de l'association, soit à la liste des membres ou gérants, soit à
+l'agencement des locaux, doivent être notifiées, dans un délai de huit jours, au directeur. 
+
+Lesdits gérants ou délégués sont tenus avant toute distillation de souscrire la déclaration prescrite à l'article 39,
+complétée par l'indication des alcools (volume et richesse alcoolique) existant dans les locaux de l'association.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 10 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 39 (V)
+	  - Code général des impôts, CGI. - art. 320 (V)
+
+
 ###### Article 55
 
 Ne peuvent être mis en oeuvre dans la distillerie que des vins, cidres ou poirés, marcs, lies, cerises, prunes et prunelles
@@ -611,36 +672,6 @@ et les produits fabriqués.
 	**Cite**:
 
 	  - CGIAN1 47
-
-
-##### Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.
-
-###### Article 54
-
-Les brûleries coopératives ou syndicales des récoltants sont soumises aux dispositions suivantes :
-
-Les gérants ou délégués doivent fournir, huit jours au moins avant toute opération, au directeur des services fiscaux
-[*autorité compétente*], la justification de la constitution régulière de l'association, les statuts, une liste des membres
-de l'association indiquant les nom, prénoms et domicile de chacun d'eux, avec la date de son admission, un plan intérieur
-avec légende permettant de constater que les locaux satisfont aux prescriptions de l'article 320, deuxième alinéa, du code
-général des impôts, enfin la justification de leur propre qualité de délégué ou de gérant.
-
-Les modifications apportées soit à l'organisation de l'association, soit à la liste des membres ou gérants, soit à
-l'agencement des locaux, doivent être notifiées, dans un délai de huit jours, au directeur.
-
-Lesdits gérants ou délégués sont tenus avant toute distillation de souscrire la déclaration prescrite à l'article 39,
-complétée par l'indication des alcools (volume et richesse alcoolique) existant dans les locaux de l'association.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 320 AL. 2
-	  - CGIAN1 39
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### 5° : Dispositions communes.
@@ -716,24 +747,24 @@ lesquelles les conditions techniques existantes amènent à différer provisoire
 	  - HISTO: EDITION 1979-07-01
 
 
-##### Régime général.
+##### 2° : Régime général
 
 ###### Article 58
 
 Deux mois au moins avant la date prévue pour la première mise en exploitation d'un établissement défini à l'avant-dernier
-alinéa de l'article 57, l'exploitant doit remettre au service des impôts [*formalités obligatoires*] :
+alinéa de l'article 57, l'exploitant doit remettre au service des douanes et droits indirects :
 
 Une déclaration générale d'exploitation indiquant les opérations devant être réalisées dans la distillerie et les autres
 activités exercées dans l'établissement ainsi que les matières premières alcooligènes à utiliser et les alcools et boissons
-alcooliques détenus dans la distillerie;
+alcooliques détenus dans la distillerie; 
 
 Un plan de l'établissement précisant l'emplacement et la contenance, par référence à une échelle centimétrique, des
 appareils, vaisseaux ou cuves d'entrepôt, et indiquant les matières premières alcooliques, spiritueux et alcools utilisés
-dans la distillerie;
+dans la distillerie; 
 
-Un plan schématique de l'appareillage présentant intégralement le circuit de l'alcool et des sous-produits alcooliques.
+Un plan schématique de l'appareillage présentant intégralement le circuit de l'alcool et des sous-produits alcooliques. 
 
-Avant sa mise en service, toute installation doit être agréée par l'administration.
+Avant sa mise en service, toute installation doit être agréée par l'administration. 
 
 Toute modification dans la nature des opérations à réaliser doit faire l'objet d'une déclaration préalable. Il en est de même
 pour toute modification des installations. Dans ce cas, des plans rectifiés doivent être fournis par l'exploitant à l'appui
@@ -745,6 +776,11 @@ de sa déclaration.
 
 	  - CGIAN1 57
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 11 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
@@ -752,18 +788,19 @@ de sa déclaration.
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 59
 
 Avant toute utilisation d'un appareil ou récipient affecté à la production ou au logement d'alcools ou de boissons passibles
-de droits indirects, l'exploitant doit remettre aux agents des impôts le certificat de jaugeage de ce récipient établi par le
-service des instruments de mesure. Ce certificat doit être renouvelé à l'expiration de sa période de validité.
+de droits indirects, l'exploitant doit remettre au service des douanes et droits indirects le certificat de jaugeage de ce
+récipient établi par le service des instruments de mesure. Ce certificat doit être renouvelé à l'expiration de sa période de
+validité. 
 
 En cas de déformation, de modification ou de réparation susceptibles de changer la capacité d'un récipient, l'utilisation en
 est provisoirement interdite. Celle-ci ne peut être reprise qu'après établissement et remise d'un nouveau certificat de
-jaugeage.
+jaugeage. 
 
 Tous les récipients, y compris ceux dont la contenance est inférieure à dix hectolitres, doivent être pourvus, aux frais de
 l'exploitant, d'un dispositif de jaugeage agréé par l'administration. Ces récipients doivent, de plus, permettre le
@@ -771,117 +808,145 @@ prélèvement d'un échantillon moyen sur toute la hauteur du liquide qu'ils con
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°93-310 du 9 mars 1993 - art. 12 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 
 ###### Article 60
 
-L'exploitant est tenu de mettre en place, à ses frais, sur tous les points des installations désignés par les agents des
-impôts, un dispositif approprié, agréé par l'administration, permettant l'apposition de scellés inviolables de nature à
-prévenir tout détournement d'alcool avant sa prise en charge par l'administration.
+L'exploitant est tenu de mettre en place, à ses frais, sur tous les points des installations désignés par le service des
+douanes et droits indirects, un dispositif approprié, agréé par l'administration, permettant l'apposition de scellés
+inviolables de nature à prévenir tout détournement d'alcool avant sa prise en charge par l'administration. 
 
-Les scellés sont apposés au début des travaux de distillation et maintenus jusqu'à leur achèvement.
+Les scellés sont apposés au début des travaux de distillation et maintenus jusqu'à leur achèvement. 
 
 Durant la période d'inactivité de la distillerie, des scellés peuvent être apposés sur les appareils de production ou de
 traitement de l'alcool afin de les rendre inutilisables à ces usages.
 
-Il est interdit à l'exploitant de rompre, d'altérer les scellés apposés par les agents des impôts ou d'apporter, sans
-agrément préalable, une modification dans le circuit scellé, sauf par mesure urgente de sécurité.
+Il est interdit à l'exploitant de rompre, d'altérer les scellés apposés par les agents du  service ou d'apporter, sans
+agrément préalable, une modification dans le circuit scellé, sauf par mesure urgente de sécurité. 
 
-Dans le cas où un scellé est rompu accidentellement, l'exploitant est tenu d'en faire immédiatement la déclaration.
+Dans le cas où un scellé est rompu accidentellement, l'exploitant est tenu d'en faire immédiatement la déclaration. 
 
-Si aucun agent des impôts n'est présent dans la distillerie pour la recevoir, cette déclaration est consignée par
+Si aucun agent du service n'est présent dans la distillerie pour la recevoir, cette déclaration est consignée par
 l'exploitant sur un registre mis à sa disposition à cet effet. Dans ce cas, elle doit indiquer la date, l'heure, les
-circonstances de la rupture et le moyen utilisé pour prévenir les agents des impôts.
+circonstances de la rupture et le moyen utilisé pour prévenir les agents du service.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 13 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 61
 
 L'exploitant est tenu d'effectuer, à ses frais, les aménagements propres à assurer une utilisation normale des compteurs, que
 ceux-ci soient sa propriété ou qu'ils lui soient fournis par l'administration. Ces aménagements lui sont indiqués par les
-agents habilités des impôts qui établissent un plan d'installation, en surveillent la réalisation et procèdent à son agrément
-dès son achèvement.
+agents habilités par l'administration des douanes et droits indirects qui établissent un plan d'installation, en surveillent
+la réalisation et procèdent à son agrément dès son achèvement. 
 
-Aucune modification d'une installation agréée ne peut être effectuée sans l'accord préalable des agents habilités des impôts,
-qui en contrôlent l'exécution.
+Aucune modification d'une installation agréée ne peut être effectuée sans l'accord préalable des agents habilités par
+l'administration des douanes et droits indirects qui en contrôlent l'exécution.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 14 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 62
 
-La mise en service des compteurs, leur réglage et leur entretien ne peuvent être effectués que par les agents habilités des
-impôts alors même que les compteurs seraient la propriété du distillateur.
+La mise en service des compteurs, leur réglage et leur entretien ne peuvent être effectués que par les agents habilités par
+l'administration des douanes et droits indirects alors même que les compteurs seraient la propriété du distillateur. 
 
-L'exploitant a la faculté d'assister à ces opérations ou de s'y faire représenter.
+L'exploitant a la faculté d'assister à ces opérations ou de s'y faire représenter. 
 
 Il est tenu d'utiliser l'installation dans les conditions notifiées par ces mêmes agents.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 15 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 63
 
 Si l'exploitant constate un incident ou une anomalie de fonctionnement d'un compteur, il est tenu d'en faire immédiatement la
-déclaration aux agents habilités des impôts et de consigner cette déclaration sur un registre mis à sa disposition à cet
-effet.
+déclaration aux agents habilités par l'administration des douanes et droits indirects et de consigner cette déclaration sur
+un registre mis à sa disposition à cet effet.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 16 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 65
 
-Quinze jours au moins avant le début des travaux de chaque campagne [*délai*], l'exploitant doit faire tenir aux agents des
-impôts, qui en accusent réception, une déclaration indiquant [*mentions*] :
+Quinze jours au moins avant le début des travaux de chaque campagne, l'exploitant doit faire tenir au service des douanes et
+droits indirects qui en accuse réception, une déclaration indiquant :
 
-La date envisagée pour le début des travaux et leur durée probable;
+La date envisagée pour le début des travaux et leur durée probable ;
 
 La nature et le programme des opérations qui seront effectuées au cours de cette campagne.
 
 Toute modification apportée à ce programme doit être déclarée quarante-huit heures à l'avance.
 
-Si les opérations envisagées nécessitent un accord préalable , un exemplaire de cet accord doit être joint à la déclaration.
+Si les opérations envisagées nécessitent un accord préalable, un exemplaire de cet accord doit être joint à la déclaration.
 
 Les dispositions ci-dessus s'appliquent en cas de mise en activité d'une distillerie en cours de campagne.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°93-310 du 9 mars 1993 - art. 17 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 81 (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 ###### Article 67
 
 Dès la mise en service de l'installation réalisée en conformité avec les conditions d'aménagement prévues aux articles 60 à
-62, les alcools produits sont pris en charge d'après les indications des compteurs.
+62,
 
-L'exploitant est tenu d'assister ou de se faire représenter aux opérations de relevés de ces appareils effectuées par les
-agents des impôts.
+les alcools produits sont pris en charge d'après les indications des compteurs. 
+
+L'exploitant est tenu d'assister ou de se faire représenter aux opérations de relevés de ces appareils effectuées par le
+service des douanes et droits indirects. 
 
 Les prises en charge ainsi opérées sont corrigées lorsque le contrôle technique des compteurs effectué dans l'un des cas
 prévus à l'article R. 32-1 du livre des procédures fiscales fait apparaître une discordance de plus de 0,5 % entre les
@@ -891,14 +956,17 @@ indications des appareils et les quantités d'alcool réellement produites.
 
 	**Cite**:
 
-	  - CGI R32-1
-	  - CGIAN1 60
-	  - CGIAN1 61
-	  - CGIAN1 62
+	  - CGIAN1 60, 61, 62
+	  - Livre des procédures fiscales R32-1
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°93-310 du 9 mars 1993 - art. 18 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 68
@@ -906,20 +974,23 @@ indications des appareils et les quantités d'alcool réellement produites.
 En vue de permettre le mesurage de l'alcool obtenu, en cas d'arrêt momentané des compteurs, les exploitants sont tenus de
 mettre en place des bacs de réserve spécialement destinés à cet usage. De même, le mesurage des alcools imparfaits est opéré
 dans des bacs de recette lorsque le volume de ces alcools ne justifie pas, sur le plan technique, la mise en service de
-compteurs.
+compteurs. 
 
-La construction et l'installation de ces bacs doivent répondre à des spécifications techniques définies par l'administration.
+La construction et l'installation de ces bacs doivent répondre à des spécifications techniques définies par
+l'administration. 
 
-Les bacs munis des scellés prévus à l'article 60 ne peuvent être ouverts qu'en présence des agents des impôts. L'alcool
-qu'ils contiennent une fois reconnu par les agents des impôts, en présence de l'exploitant ou de son représentant, est pris
-en charge et évacué sans délai vers le bac de stockage désigné par l'exploitant ou son représentant.
+Les bacs munis des scellés prévus à l'article 60 ne peuvent être ouverts qu'en présence des agents du service des douanes et
+droits indirects. L'alcool qu'ils contiennent une fois reconnu par les agents du service des douanes et droits indirects, en
+présence de l'exploitant ou de son représentant, est pris en charge et évacué sans délai vers le bac de stockage désigné par
+l'exploitant ou son représentant. 
 
 Tout apport d'alcool est interdit sur un bac de réserve ou de recette dès le contrôle de son contenu jusqu'à sa vidange
-complète. Aussitôt cette opération achevée, le bac est replacé sous scellés par les agents des impôts.
+complète. Aussitôt cette opération achevée, le bac est replacé sous scellés par les agents du service des douanes et droits
+indirects. 
 
-Par exception, si aucun agent des impôts ne peut être présent alors qu'un bac doit être vidangé pour éviter qu'il ne déborde,
-l'exploitant peut procéder, seul, à l'évacuation de l'alcool qu'il contient. Il consigne alors sa déclaration de
-reconnaissance sur le registre prévu à cet effet.
+Par exception, si aucun agent du service des douanes et droits indirects ne peut être présent alors qu'un bac doit être
+vidangé pour éviter qu'il ne déborde, l'exploitant peut procéder, seul, à l'évacuation de l'alcool qu'il contient. Il
+consigne alors sa déclaration de reconnaissance sur le registre prévu à cet effet. 
 
 Dès l'achèvement de la vidange, l'exploitant replace le bac sous scellés.
 
@@ -929,25 +1000,30 @@ Dès l'achèvement de la vidange, l'exploitant replace le bac sous scellés.
 
 	  - CGIAN1 60
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°93-310 du 9 mars 1993 - art. 19 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ###### Article 69
 
 Les mouvements des matières alcooligènes et des alcools reçus de l'extérieur ou produits dans la distillerie sont suivis par
-les agents des impôts sur deux comptes distincts :
+le service des douanes et droits indirects sur deux comptes distincts :
 
 1° Un compte spécial d'entrepôt, tenu conformément aux dispositions de l'article 490 du code général des impôts, relatif au
-régime des marchands en gros;
+régime des marchands en gros ; 
 
 2° Un compte de magasin, ouvert dans chaque distillerie pour la prise en charge, en alcool pur, des alcools obtenus sur place
-et des alcools de toute nature reçus de l'extérieur en vue d'être traités ou revendus en l'état.
+et des alcools de toute nature reçus de l'extérieur en vue d'être traités ou revendus en l'état. 
 
 Ces comptes enregistrent les indications résultant des titres de mouvement accompagnant les produits reçus à la distillerie
-ou expédiés par elle, des déclarations de l'exploitant ainsi que des propres constatations des agents des impôts; ils sont
-tenus par campagne [*périodicité*].
+ou expédiés par elle, des déclarations de l'exploitant ainsi que des propres constatations des agents du service ; ils sont
+tenus par campagne.
 
 **Liens relatifs à cet article**
 
@@ -955,19 +1031,24 @@ tenus par campagne [*périodicité*].
 
 	  - CGI 490
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°93-310 du 9 mars 1993 - art. 20 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ###### Article 70
 
 Pour la tenue des comptes, les reconnaissances et toutes les déclarations ou constatations prévues au présent règlement, les
-alcools dont le titre est supérieur à 70° G. L. sont obligatoirement déclarés au dixième de degré G. L. et au demi-degré C.
-de température.
+alcools dont le titre est supérieur à 70° G.L. sont obligatoirement déclarés au dixième de degré G.L. et au demi-degré C. de
+température. 
 
-Pour le contrôle du titre déclaré, seuls font foi les alcoomètres et thermomètres réglementaires dont les agents des impôts
-sont pourvus par l'administration.
+Pour le contrôle du titre déclaré, seuls font foi les alcoomètres et thermomètres réglementaires dont les agents du service
+des douanes et droits indirects sont pourvus par l'administration. 
 
 En cas de désaccord sur le titre alcoolique d'un produit, un échantillon de celui-ci est soumis au service des laboratoires
 de la direction générale des douanes et droits indirects.
@@ -976,32 +1057,33 @@ de la direction générale des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988 incorporé le 14 juillet 1989
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988 incorporé le 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
+	  - Décret n°93-310 du 9 mars 1993 - art. 21 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
 
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 ###### Article 71
 
-Indépendamment des autres inventaires susceptibles d'être pratiqués à l'initiative de l'administration à tout moment, les
-agents des impôts procèdent obligatoirement à la fin de chaque campagne, et immédiatement avant le début des travaux de la
-campagne suivante, à un inventaire général de tous les produits détenus dans la distillerie et qui sont suivis au compte
-spécial d'entrepôt ou au compte de magasin, ainsi que de ceux contenus dans les appareils et circuits de fabrication.
+Indépendamment des autres inventaires susceptibles d'être pratiqués à l'initiative de l'administration à tout moment, le
+service des douanes et droits indirects procède obligatoirement à la fin de chaque campagne, et immédiatement avant le début
+des travaux de la campagne suivante, à un inventaire général de tous les produits détenus dans la distillerie et qui sont
+suivis au compte spécial d'entrepôt ou au compte de magasin, ainsi que de ceux contenus dans les appareils et circuits de
+fabrication. 
 
 Lorsque la distillerie est vidée de tout produit imposable avant la fin de la campagne et n'est pas susceptible d'en détenir
 avant le début de la campagne suivante, l'inventaire général de clôture de campagne est effectué à une date aussi proche que
-possible de la dernière expédition.
+possible de la dernière expédition. 
 
 Les restes éventuels reconnus lors de l'inventaire général de clôture de campagne sont repris aux charges des comptes
-correspondants de la campagne suivante.
+correspondants de la campagne suivante. 
 
 Les excédents ou manquants constatés à l'issue de l'inventaire donnent lieu aux régularisations ci-après :
 
@@ -1019,70 +1101,23 @@ imposées aux droits en vigueur sur l'alcool.
 
 	**Cite**:
 
-	  - CGI 494
-	  - CGI 495
+	  - CGI 494, 495
 	  - CGIAN1 67
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: CGIAN1 72
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 22 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 87 (V)
 
-
-###### Article 74
-
-Tout accident entraînant une perte de produits suivis en compte doit être signalé au service des impôts dans des délais lui
-permettant de constater par lui-même la réalité et l'importance de la perte.
-
-Si, malgré la diligence apportée à tenter de prévenir le service des impôts, aucun agent ne peut être joint en temps utile,
-l'exploitant peut avoir recours à un constat d'officier de police judiciaire ou, à ses frais, à un constat d'huissier. Le
-service des impôts doit alors être prévenu aussitôt que possible.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 75
-
-Les mises en distillation de matières à traiter suivies en compte, les repassages de produits imparfaits, les rectifications
-de flegmes ou de produits défectueux, les déshydratations d'alcool achevé doivent être déclarés par l'exploitant, au fur et à
-mesure de leur déroulement, sur un registre mis à sa disposition.
-
-Toutefois, lorsque, au cours d'une campagne, la quantité d'alcool pur contenue dans les produits destinés à être repassés,
-rectifiés et déshydratés a été supérieure à 1 % [*pourcentage*] de la quantité d'alcool pur obtenue, les agents des impôts
-peuvent décider que la quantité d'alcool mise en oeuvre à l'occasion de ces opérations soit déterminée au moyen d'un compteur
-agréé placé par l'administration à l'entrée du circuit de fabrication scellé dans les conditions prévues à l'article 60. Dans
-ce cas, les produits repassés par ce compteur n'ont plus à être inscrits sur le registre susmentionné.
-
-Les mises en macération de fruits font l'objet d'une déclaration préalable sur un registre spécialement réservé à cet usage.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 60
-
-	**Modifié par**:
-
-	  - Décret n°79-715 du 22 août 1979 - art. 1 (V) JORF 26 AOUT 1979
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies J (V)
-
-
-##### 2° : Régime général
 
 ###### Article 72
 
@@ -1116,6 +1151,65 @@ l'exploitant si son origine industrielle ne fait aucun doute.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies I (V)
+
+
+###### Article 74
+
+Tout accident entraînant une perte de produits suivis en compte doit être signalé au service des douanes et droits indirects
+dans des délais lui permettant de constater par lui-même la réalité et l'importance de la perte. 
+
+Si, malgré la diligence apportée à tenter de prévenir le service des douanes et droits indirects, aucun agent ne peut être
+joint en temps utile, l'exploitant peut avoir recours à un constat d'officier de police judiciaire ou, à ses frais, à un
+constat d'huissier. Le service des douanes et droits indirects doit alors être prévenu aussitôt que possible.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 23 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 75
+
+Les mises en distillation de matières à traiter suivies en compte, les repassages de produits imparfaits, les rectifications
+de flegmes ou de produits défectueux, les déshydratations d'alcool achevé doivent être déclarés par l'exploitant, au fur et à
+mesure de leur déroulement, sur un registre mis à sa disposition. 
+
+Toutefois, lorsque, au cours d'une campagne, la quantité d'alcool pur contenue dans les produits destinés à être repassés,
+rectifiés et déshydratés a été supérieure à 1 % de la quantité d'alcool pur obtenue, le service des douanes et droits
+indirects peut décider que la quantité d'alcool mise en oeuvre à l'occasion de ces opérations soit déterminée au moyen d'un
+compteur agréé placé par l'administration à l'entrée du circuit de fabrication scellé dans les conditions prévues à l'article
+60. Dans ce cas, les produits repassés par ce compteur n'ont plus à être inscrits sur le registre susmentionné. 
+
+Les mises en macération de fruits font l'objet d'une déclaration préalable sur un registre spécialement réservé à cet usage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 60
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 24 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies J (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 76
@@ -1196,6 +1290,33 @@ heures.
 	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
 
 
+###### Article 81
+
+Avant chaque campagne de distillation ou en cas de mise en activité d'une distillerie en cours de campagne, l'exploitant doit
+souscrire une déclaration selon les modalités prévues à l'article 65.
+
+En outre, lorsque les opérations de distillation sont interrompues pour une durée susceptible de dépasser huit jours,
+l'exploitant est tenu d'en informer le service habilité des douanes et droits indirects.
+
+Toute nouvelle remise en activité de la distillerie doit faire l'objet, quarante-huit heures à l'avance, d'une déclaration
+indiquant la date du commencement des travaux ainsi que leur durée probable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 65
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 25 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 82
 
 Toutes fabrications ou préparations de matières susceptibles de produire de l'alcool ainsi que toutes mises en fermentation
@@ -1246,6 +1367,36 @@ boissons ou autres produits visés aux articles 82 et 83 doit faire l'objet d'un
 	  - CGIAN1 82, 83
 
 
+###### Article 85
+
+L'exploitant doit, avant toute mise en distillation et en fin d'opération de distillation, en faire la déclaration sur un
+registre mis à sa disposition.
+
+Les quantités d'alcool obtenues font l'objet d'un arrêté journalier effectué à une heure convenue entre l'exploitant et le
+service des douanes et droits indirects ou, à défaut d'accord, fixée par ce dernier.
+
+Le transvasement des productions journalières ne peut être effectué qu'à l'expiration d'un délai de deux heures après cet
+arrêté.
+
+Tout changement de bac ou de récipient de réception de l'alcool produit doit également, au moment où il s'opère, faire
+l'objet d'une déclaration sur le registre prévu à l'article 60.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 60
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 26 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 86
 
 Les mouvements et le traitement des matières alcooligènes ainsi que les mouvements et la production des alcools dans la
@@ -1261,6 +1412,53 @@ ouvert pour la liquidation de la campagne.
 	**Abrogé par**:
 
 	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+
+
+###### Article 87
+
+Le service des douanes et droits indirects procède aux inventaires des produits détenus dans la distillerie et suivis aux
+comptes définis à l'article 86 selon les modalités fixées à l'article 71.
+
+Les excédents ou manquants constatés à l'issue de l'inventaire donnent lieu aux régularisations ci-après :
+
+En ce qui concerne le compte spécial d'entrepôt, les quantités de fruits, de moûts, de boissons, de dilutions alcooliques et
+de matières fermentées dégagées :
+
+En excédent à la balance de ce compte donnent lieu à procès-verbal ;
+
+En manquant en sus des déductions prévues à l'article 495 du code général des impôts sont soumises aux droits applicables à
+l'alcool.
+
+En ce qui concerne le compte de magasin, les quantités d'alcool dégagées :
+
+En excédent à la balance de ce compte donnent lieu à procès-verbal ;
+
+En manquant en sus des déductions prévues à l'article 495 du code général des impôts sont soumises aux droits en vigueur.
+
+En ce qui concerne le compte annexe de production, les quantités d'alcool dégagées en freinte de distillation sont admises en
+décharge si elles ne sont pas supérieures à 2 % des quantités prises en charge au compte. Au-delà de ce taux, les quantités
+d'alcool dégagées en freinte de distillation sont soumises aux droits applicables à l'alcool, sauf si l'origine industrielle
+de ce déficit est établie par l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 495
+	  - CGIAN1 71, 86
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 27 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 88
@@ -1280,137 +1478,51 @@ en volume et alcool pur, au compte spécial d'entrepôt, qu'elles soient fabriqu
 	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Régime spécial
-
-###### Article 81
-
-Avant chaque campagne de distillation ou en cas de mise en activité d'une distillerie en cours de campagne, l'exploitant doit
-souscrire une déclaration selon les modalités prévues à l'article 65.     En outre, lorsque les opérations de distillation
-sont interrompues pour une durée susceptible de dépasser huit jours, l'exploitant est tenu d'en informer le service habilité
-des impôts.
-
-Toute nouvelle remise en activité de la distillerie doit faire l'objet, quarante-huit heures à l'avance [*délai*], d'une
-déclaration indiquant la date du commencement des travaux ainsi que leur durée probable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 65
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 85
-
-L'exploitant doit, avant toute mise en distillation et en fin d'opération de distillation, en faire la déclaration sur un
-registre mis à sa disposition.
-
-Les quantités d'alcool obtenues font l'objet d'un arrêté journalier effectué à une heure convenue entre l'exploitant et les
-agents des impôts ou, à défaut d'accord, fixée par ces derniers.
-
-Le transvasement des productions journalières ne peut être effectué qu'à l'expiration d'un délai de deux heures après cet
-arrêté.
-
-Tout changement de bac ou de récipient de réception de l'alcool produit doit également, au moment où il s'opère, faire
-l'objet d'une déclaration sur le registre prévu à l'article 60.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 60
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 87
-
-Les agents des impôts procèdent aux inventaires des produits détenus dans la distillerie et suivis aux comptes définis à
-l'article 86 selon les modalités fixées à l'article 71.
-
-Les excédents ou manquants constatés à l'issue de l'inventaire donnent lieu aux régularisations ci-après :
-
-En ce qui concerne le compte spécial d'entrepôt, les quantités de fruits, de moûts, de boissons, de dilutions alcooliques et
-de matières fermentées dégagées :
-
-En excédent à la balance de ce compte donnent lieu à procès-verbal;
-
-En manquant en sus des déductions prévues à l'article 495 du code général des impôts sont soumises aux droits applicables à
-l'alcool.
-
-En ce qui concerne le compte de magasin, les quantités d'alcool dégagées :
-
-En excédent à la balance de ce compte donnent lieu à procès-verbal;
-
-En manquant en sus des déductions prévues à l'article 495 du code général des impôts sont soumises aux droits en vigueur.
-
-En ce qui concerne le compte annexe de production, les quantités d'alcool dégagées en freinte de distillation sont admises en
-décharge si elles ne sont pas supérieures à 2 % des quantités prises en charge au compte. Au-delà de ce taux, les quantités
-d'alcool dégagées en freinte de distillation sont soumises aux droits applicables à l'alcool, sauf si l'origine industrielle
-de ce déficit est établie par l'exploitant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 495
-	  - CGIAN1 71
-	  - CGIAN1 86
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Dispositions communes
+##### 4° : Dispositions communes.
 
 ###### Article 89
 
 Les registres mis par l'administration à la disposition des exploitants de distillerie pour recevoir les déclarations prévues
-au présent règlement doivent être tenus sans blanc, surcharge ou rature.
+au présent règlement doivent être tenus sans blanc, surcharge ou rature. 
 
-Ils doivent demeurer constamment à la disposition des agents des impôts et être conservés en bon état selon les modalités
-prévues au I de l'article L. 102 B du livre des procédures fiscales.
+Ils doivent demeurer constamment à la disposition des agents du service des douanes et droits indirects et être conservés en
+bon état selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI L102 B
-
 	**Modifié par**:
 
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+	  - Décret n°93-310 du 9 mars 1993 - art. 28 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L102 B (M)
 
 
 ###### Article 90
 
-L'administration notifie à tout exploitant l'appellation et l'adresse des services des impôts spécialement habilités soit à
-assurer le contrôle technique des installations, soit à recevoir les déclarations prescrites par le présent règlement.
+L'administration notifie à tout exploitant l'appellation et l'adresse des services des douanes et droits indirects
+spécialement habilités soit à assurer le contrôle technique des installations, soit à recevoir les déclarations prescrites
+par le présent règlement.
 
 L'exploitant est tenu de se conformer aux indications reçues.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°93-310 du 9 mars 1993 - art. 29 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
+	**Abrogé par**:
 
-##### 4° : Dispositions communes.
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+
 
 ###### Article 91
 
@@ -1583,6 +1695,38 @@ allocations complémentaires non utilisées au cours de l'année.
 
 ##### 1° : Dénaturation des alcools par le procédé général.
 
+###### Article 165
+
+Toute personne qui se propose de dénaturer des alcools par le procédé général visé à l'article 511 du code général des impôts
+doit adresser une demande au directeur régional des douanes et droits indirects. 
+
+La demande doit indiquer si l'intéressé veut dénaturer l'alcool en vue de la vente ou pour les besoins de son industrie, et,
+dans ce dernier cas, préciser la nature des produits qui seront fabriqués avec cet alcool et s'il sera procédé à la
+récupération et à la régénération des alcools non transformés. 
+
+Un plan avec légende de toutes les parties de l'établissement industriel doit être joint à la demande. Ce plan, fourni en
+double exemplaire, présente l'emplacement des cuves et autres récipients établis à demeure et, le cas échéant, l'emplacement
+de tous les appareils de distillation ou de rectification avec l'indication des numéros d'ordre des appareils et récipients. 
+
+Les modifications ultérieures sont déclarées à l'avance et elles donnent lieu à la production d'un plan rectificatif.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 30 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 185 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 186 (M)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 511 (Ab)
+
+
 ###### Article 166
 
 A Paris, les dénaturations ne peuvent être faites que dans les entrepôts réels.
@@ -1628,6 +1772,45 @@ l'emmagasinement des alcools dénaturés.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 168
+
+Les cuves dans lesquelles s'opère le mélange de l'alcool avec les substances dénaturantes doivent être isolées, bien
+éclairées, et reposer sur des supports à jour ayant une hauteur d'un mètre au moins au-dessus du sol. Il doit exister tout
+autour des cuves un espace libre d'au moins 60 centimètres.
+
+Chacun de ces récipients est muni de deux indicateurs à niveau, avec tube en verre et curseur, gradués par hectolitre et par
+décalitre, et fixés sur les points désignés par le service. Les tubes à niveau peuvent être remplacés par des jauges
+métalliques graduées de la même façon.
+
+Le couvercle des cuves doit être mobile dans toutes ses parties et disposé de manière à pouvoir être entièrement enlevé lors
+des opérations.
+
+Les industriels doivent, pour l'agencement de leurs ateliers et magasins, ainsi que du local et des bacs affectés au dépôt
+des dénaturants, se conformer aux conditions particulières que le service des douanes et droits indirects jugerait utiles et,
+spécialement, prendre à leurs frais les dispositions nécessaires pour que le service puisse apposer des cadenas, dont il
+conserve les clés, ou des plombs aux endroits qu'il indique.
+
+Les agents du service peuvent fixer un scellé sur l'entrée des cadenas.
+
+Les appareils et récipients reçoivent un numéro d'ordre qui est gravé ou peint sur chacun d'eux, avec l'indication de sa
+contenance, en caractères d'au moins 5 centimètres de hauteur, par les soins et aux frais des industriels.
+
+Il ne peut être procédé à des opérations de dénaturation que si les installations ou les modifications intervenues ont été
+agréées par le service des douanes et droits indirects. Celui-ci peut astreindre les dénaturateurs à prendre les mesures
+nécessaires pour assurer la sécurité de ses agents.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 31 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 169
 
 Les distillateurs restent soumis, dans leurs ateliers de dénaturation, aux prescriptions des règlements sur les distilleries
@@ -1661,6 +1844,78 @@ dénaturation.
 	**Codifié par**:
 
 	  - Décret n°89-801 1989-10-27
+
+
+###### Article 171
+
+Chaque opération de dénaturation doit être précédée d'une déclaration mentionnant :
+
+1° L'espèce, la quantité et le titre alcoométrique volumique des alcools à dénaturer ;
+
+2° L'espèce et la quantité des substances dénaturantes à employer ;
+
+3° La nature des produits à fabriquer.
+
+Dans les distilleries et les usines soumises à une surveillance permanente, cette déclaration est faite aux agents préposés à
+ladite surveillance.
+
+Pour les autres établissements, elle est souscrite au bureau de déclarations de la direction générale des douanes et droits
+indirects désigné par les agents du service des douanes et droits indirects , qui font connaître au déclarant le jour et
+l'heure auxquels ils peuvent assister aux opérations.
+
+Aucune dénaturation ne peut être faite hors la présence du service.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 32 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+
+
+###### Article 172
+
+La quantité minimale sur laquelle doit porter chaque opération de dénaturation par le procédé général est fixé à 20
+hectolitres en volume. 
+
+Des fixations particulières peuvent être autorisées par le service des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 33 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 173
+
+Lors de chaque opération de dénaturation, le service des douanes et droits indirects prélève gratuitement, aux fins
+d'analyse, dans les ateliers ou magasins des dénaturateurs, des échantillons des alcools en nature, des substances
+dénaturantes, des produits de la dénaturation et des produits à base d'alcool dénaturé, achevés ou en cours de fabrication.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 34 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 185 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 174
@@ -1701,6 +1956,32 @@ Les manquants sont portés en décharge et, après allocation des déductions r�
 	**Abrogé par**:
 
 	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+
+
+###### Article 175
+
+Les quantités d'alcool dénaturé mises en oeuvre qui n'auraient pas disparu ou qui ne seraient pas transformées au cours des
+manipulations peuvent être régénérées et utilisées à nouveau après avoir subi, s'il y a lieu, un complément de dénaturation. 
+
+A cet effet, les quantités recueillies sont mises à part et représentées au service des douanes et droits indirects. 
+
+La régénération et, s'il y a lieu, le complément de dénaturation doivent être précédés de déclarations souscrites dans les
+conditions déterminées à l'article 171.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 171
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 35 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 176
@@ -1777,6 +2058,26 @@ l'économie et des finances.
 	  - Code du travail - art. L231-6 (M)
 
 
+###### Article 181
+
+Toute personne désirant se livrer au commerce, soit en gros, soit au détail, des alcools dénaturés par le procédé général,
+doit en faire la déclaration au bureau de déclarations de la direction générale des douanes et droits indirects ; cette
+déclaration mentionne les locaux où doit s'exercer le commerce.
+
+Il est interdit aux marchands en gros et aux détaillants de détenir des alcools dénaturés en dehors des locaux déclarés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 36 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 182
 
 Est interdite toute communication intérieure entre, d'une part, les locaux affectés au commerce de gros ou de détail des
@@ -1785,179 +2086,16 @@ rectification, ou ceux qui sont affectés à la fabrication ou au commerce en gr
 
 
 
-##### Dénaturation des alcools par le procédé général.
-
-###### Article 165
-
-Toute personne qui se propose de dénaturer des alcools par le procédé général visé à l'article 511 du code général des impôts
-doit adresser une demande au directeur des services fiscaux [*autorité compétente*].
-
-La demande doit indiquer si l'intéressé veut dénaturer l'alcool en vue de la vente ou pour les besoins de son industrie, et,
-dans ce dernier cas, préciser la nature des produits qui seront fabriqués avec cet alcool et s'il sera procédé à la
-récupération et à la régénération des alcools non transformés.
-
-Un plan avec légende de toutes les parties de l'établissement industriel doit être joint à la demande. Ce plan, fourni en
-double exemplaire, présente l'emplacement des cuves et autres récipients établis à demeure et, le cas échéant, l'emplacement
-de tous les appareils de distillation ou de rectification avec l'indication des numéros d'ordre des appareils et récipients.
-
-Les modifications ultérieures sont déclarées à l'avance et elles donnent lieu à la production d'un plan rectificatif.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 511
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 185 (V)
-	  - Code général des impôts annexe 1, CGIAN1. - art. 186 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 168
-
-Les cuves dans lesquelles s'opère le mélange de l'alcool avec les substances dénaturantes doivent être isolées, bien
-éclairées, et reposer sur des supports à jour ayant une hauteur d'un mètre au moins au-dessus du sol. Il doit exister tout
-autour des cuves un espace libre d'au moins 60 centimètres.
-
-Chacun de ces récipients est muni de deux indicateurs à niveau, avec tube en verre et curseur, gradués par hectolitre et par
-décalitre, et fixés sur les points désignés par le service. Les tubes à niveau peuvent être remplacés par des jauges
-métalliques graduées de la même façon.
-
-Le couvercle des cuves doit être mobile dans toutes ses parties et disposé de manière à pouvoir être entièrement enlevé lors
-des opérations.
-
-Les industriels doivent, pour l'agencement de leurs ateliers et magasins, ainsi que du local et des bacs affectés au dépôt
-des dénaturants, se conformer aux conditions particulières que le service des impôts jugerait utiles et, spécialement,
-prendre à leurs frais les dispositions nécessaires pour que le service puisse apposer des cadenas, dont il conserve les clés,
-ou des plombs aux endroits qu'il indique.
-
-Les agents des impôts peuvent fixer un scellé sur l'entrée des cadenas.
-
-Les appareils et récipients reçoivent un numéro d'ordre qui est gravé ou peint sur chacun d'eux, avec l'indication de sa
-contenance, en caractères d'au moins 5 centimètres de hauteur, par les soins et aux frais des industriels.
-
-Il ne peut être procédé à des opérations de dénaturation que si les installations ou les modifications intervenues ont été
-agréées par le service des impôts. Celui-ci peut astreindre les dénaturateurs à prendre les mesures nécessaires pour assurer
-la sécurité de ses agents.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 171
-
-Chaque opération de dénaturation doit être précédée d'une déclaration mentionnant :
-
-1° L'espèce, la quantité et le titre alcoométrique volumique des alcools à dénaturer ;
-
-2° L'espèce et la quantité des substances dénaturantes à employer ;
-
-3° La nature des produits à fabriquer.
-
-Dans les distilleries et les usines soumises à une surveillance permanente, cette déclaration est faite aux agents préposés à
-ladite surveillance.
-
-Pour les autres établissements, elle est souscrite au bureau de déclarations de la direction générale des impôts désigné par
-les agents des impôts, qui font connaître au déclarant le jour et l'heure auxquels ils peuvent assister aux opérations.
-
-Aucune dénaturation ne peut être faite hors la présence du service.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 172
-
-La quantité minimale sur laquelle doit porter chaque opération de dénaturation par le procédé général est fixé à 20
-hectolitres en volume.
-
-Des fixations particulières peuvent être autorisées par le service des impôts.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 173
-
-Lors de chaque opération de dénaturation, le service des impôts prélève gratuitement, aux fins d'analyse, dans les ateliers
-ou magasins des dénaturateurs, des échantillons des alcools en nature, des substances dénaturantes, des produits de la
-dénaturation et des produits à base d'alcool dénaturé, achevés ou en cours de fabrication.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 185 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 175
-
-Les quantités d'alcool dénaturé mises en oeuvre qui n'auraient pas disparu ou qui ne seraient pas transformées au cours des
-manipulations peuvent être régénérées et utilisées à nouveau après avoir subi, s'il y a lieu, un complément de dénaturation.
-
-A cet effet, les quantités recueillies sont mises à part et représentées au service des impôts.
-
-La régénération et, s'il y a lieu, le complément de dénaturation doivent être précédés de déclarations souscrites dans les
-conditions déterminées à l'article 171.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 171
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 181
-
-Toute personne désirant se livrer au commerce, soit en gros, soit au détail, des alcools dénaturés par le procédé général,
-doit en faire la déclaration au bureau de déclarations de la direction générale des impôts; cette déclaration mentionne les
-locaux où doit s'exercer le commerce [*formalité obligatoire*].
-
-Il est interdit aux marchands en gros et aux détaillants de détenir des alcools dénaturés en dehors des locaux déclarés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 184
 
 Les industriels qui désirent employer de l'alcool dénaturé par le procédé général, reçu de l'extérieur, doivent en faire la
-déclaration au bureau de déclarations de la direction générale des impôts.
+déclaration au bureau de déclarations de la direction générale des douanes et droits indirects. 
 
 Cette déclaration mentionne l'usage auquel doit être affecté l'alcool dénaturé et s'il doit ou non être procédé à des
-opérations de récupération et de régénération.
+opérations de récupération et de régénération. 
 
 S'ils procèdent à des opérations de récupération ou de régénération, les industriels doivent présenter une caution et tenir
-le registre prévu à l'article 176.
+le registre prévu à l'article 176. 
 
 Le service arrête ce registre au moins une fois par an et il le règle dans les conditions fixées par ledit article.
 
@@ -1967,9 +2105,14 @@ Le service arrête ce registre au moins une fois par an et il le règle dans les
 
 	  - CGIAN1 176
 
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 37 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### 2° : Dénaturation des alcools par un procédé spécial
@@ -2043,6 +2186,27 @@ reconnus tels à dire d'experts en cas de contestation entre le fabricant et l'a
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 189
+
+Les produits à base d'alcool dénaturé par un procédé spécial circulent librement s'ils ne renferment pas d'alcool non
+transformé ou s'ils ont le caractère de produits achevés, définis à l'article 188. 
+
+Si, ne présentant pas ce caractère, ces produits contiennent encore de l'alcool à l'état libre, le service des douanes et
+droits indirects peut, sur l'avis du service des laboratoires de la direction générale des douanes et droits indirects, les
+dispenser des formalités à la circulation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 38 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 188 (V)
+
+
 ##### Dénaturation des alcools par un procédé spécial.
 
 ###### Article 185
@@ -2064,51 +2228,18 @@ sont effectuées sous la surveillance de l'administration des douanes.
 	  - Décret n°88-766 du 22 juin 1988 - art. 2 (V) JORF 23 juin 1988
 
 
-###### Article 189
-
-Les produits à base d'alcool dénaturé par un procédé spécial circulent librement s'ils ne renferment pas d'alcool non
-transformé ou s'ils ont le caractère de produits achevés, définis à l'article 188.
-
-Si, ne présentant pas ce caractère, ces produits contiennent encore de l'alcool à l'état libre, le service des impôts peut,
-sur l'avis du service des laboratoires de la direction générale des douanes et droits indirects, les dispenser des formalités
-à la circulation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 188
-
-	**Modifié par**:
-
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-
 ##### 3° : Emploi de l'alcool sans dénaturation préalable
-
-###### Article 191
-
-Les produits fabriqués avec l'alcool employé sans dénaturation préalable ne doivent contenir aucune trace d'alcool non
-transformé.
-
-
-
-##### Emploi de l'alcool sans dénaturation préalable.
 
 ###### Article 190
 
 Lorsque, pour des raisons d'ordre technique, l'emploi d'alcool dénaturé par le procédé général ou par un procédé spécial
-s'avère incompatible avec la fabrication de certains produits, le service des impôts peut, sur l'avis du service des
-laboratoires de la direction générale des douanes et droits indirects ,autoriser les industriels qui en font la demande à
-employer auxdites fabrications, en franchise des droits, de l'alcool non dénaturé.
+s'avère incompatible avec la fabrication de certains produits, le service des douanes et droits indirects peut, sur l'avis du
+service des laboratoires de la direction générale des douanes et droits indirects ,autoriser les industriels qui en font la
+demande à employer auxdites fabrications, en franchise des droits, de l'alcool non dénaturé. 
 
 Cette autorisation, essentiellement révocable, est subordonnée à la condition que le circuit suivi par l'alcool au cours de
-la fabrication soit complètement clos ou que ladite fabrication ait lieu sous la surveillance du service des impôts.
+la fabrication soit complètement clos ou que ladite fabrication ait lieu sous la surveillance du service des douanes et
+droits indirects. 
 
 Les frais de surveillance sont remboursés par l'industriel dans les conditions prévues à l'article 631 du code général des
 impôts.
@@ -2121,46 +2252,59 @@ impôts.
 
 	**Modifié par**:
 
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
+	  - Décret n°93-310 du 9 mars 1993 - art. 39 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°89-801 1989-10-27
+	  - HISTO: Edition du 18 août 1993
 
 
-##### Dispositions diverses.
+###### Article 191
+
+Les produits fabriqués avec l'alcool employé sans dénaturation préalable ne doivent contenir aucune trace d'alcool non
+transformé.
+
+
+
+##### 4° : Dispositions diverses.
 
 ###### Article 192
 
 En cas de cessation de leur industrie ou de retrait de l'autorisation administrative, les dénaturateurs, ainsi que les
 industriels autorisés à employer en franchise des droits de l'alcool sans dénaturation préalable, doivent expédier leur stock
-d'alcool nature à l'industriel désigné par le service des impôts.
+d'alcool nature à l'industriel désigné par le service des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+	  - Décret n°93-310 du 9 mars 1993 - art. 40 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 193
 
 Les divers registres, dont la tenue est prescrite par la réglementation des alcools dénaturés, sont cotés et paraphés par le
-service des impôts.
+service des douanes et droits indirects. 
 
 Ils doivent être arrêtés et présentés à toute réquisition du service par les industriels et commerçants qui en sont
 dépositaires.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°93-310 du 9 mars 1993 - art. 41 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 #### Chapitre II : Garantie des matières d'or, d'argent et de platine
