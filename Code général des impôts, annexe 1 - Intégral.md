@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1984-06-07
+Version Consolidée au 1984-07-24
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -417,64 +417,6 @@ Le visa doit être réclamé à l'instant même où le chargement parvient au po
 
 
 ##### REGIMES PARTICULIERS.
-
-###### Article 177
-
-Les dénaturateurs d'alcool par le procédé général sont soumis dans leurs ateliers, magasins et autres locaux professionnels,
-aux visites et vérifications des agents des impôts. Ils doivent, dès qu'il en sont requis, assister aux vérifications ou s'y
-faire représenter par délégués, donner toutes facilités aux agents de l'administration pour accomplir leur tâche et fournir à
-cet effet la main-d'oeuvre et les ustensiles nécessaires. 
-
-Ils doivent, en outre, lors des inventaires, déclarer la quantité et le titre alcoométrique volumique des alcools restant en
-magasin. 
-
-Ils sont aussi tenus de mettre gratuitement à la disposition du service, dans leurs ateliers, deux chaises et une table avec
-tiroir fermant à clé.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R26-1
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Transféré par**:
-
-	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-
-###### Article 183
-
-Les agents des impôts sont autorisés, aux fins d'analyse, à prélever des échantillons chez les marchands en gros et les
-détaillants d'alcool dénaturé par le procédé général.
-
-Si les produits sont reconnus réunir les éléments prescrits, la valeur des échantillons prélevés est remboursée aux
-intéressés par le service des impôts.
-
-Des prélèvements peuvent être effectués, dans les mêmes conditions, sur les liquides mis en vente chez les débitants de
-boissons.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R26-2
-
-	**Transféré par**:
-
-	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 185
 
