@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1983-12-30
+Version Consolidée au 1984-06-07
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -503,115 +503,6 @@ d'alcool nature à l'industriel désigné par le service des impôts et par la r
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE.
-
-###### Article 204
-
-Tout fabricant qui veut exporter des ouvrages d'or, d'argent ou de platine en franchise du droit de garantie et sans
-apposition des poinçons français peut les présenter à l'essai, achevés et sans marque du poinçon de maître, à condition
-d'avoir déclaré préalablement au bureau de garantie, le nombre, l'espèce et le poids desdits ouvrages et de s'être engagé à
-les y apporter achevés dans un délai n'excédant pas dix jours.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 206 (V)
-	  - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 205
-
-Toutefois, les ouvrages d'orfèvrerie qui ne pourraient être essayés sans détérioration s'ils étaient achevés sont apportés
-bruts au bureau de garantie, soumis à l'essai et remis ensuite au fabricant pour en terminer la fabrication si celui-ci
-s'engage à les rapporter achevés dans le délai de dix jours.
-
-Les ouvrages ainsi rapportés après achèvement sont vérifiés par le service de la garantie qui s'assure de leur identité.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 215
-
-Les ouvrages d'or, d'argent et de platine à tous titres doivent être revêtus du poinçon visé à l'article 213 dès la fin de la
-fabrication et avant tout polissage ou vernissage.
-
-Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
-disposition par l'administration et qui doit être représenté à toute réquisition des agents.
-
-L'inscription au registre présente la nature des objets par espèce de métal (or, argent ou platine) leur nombre, leur titre,
-leur poids brut, et, pour les objets composés de pièces rapportées de métaux différents, le poids de chaque espèce de métal.
-
-Le fabricant est tenu d'inscrire également, après le polissage, le poids net des ouvrages pour servir de base à la prise en
-charge.
-
-Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
-sur ce registre pendant le mois précédent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 213
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-###### Article 218
-
-Les fabricants et marchands exportateurs qui en font la demande peuvent être dispensés par autorisation individuelle des
-formalités prévues à l'article 217, deuxième et troisième alinéas, sous réserve :
-
-1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur et à mesure des livraisons, le titre, le
-nombre par espèce d'objets semblables et le poids net des ouvrages expédiés à l'étranger ou à un autre marchand jouissant de
-la même autorisation, avec l'indication du nom et de l'adresse du destinataire, et que ces indications soient reproduites sur
-le relevé mensuel fourni au bureau de garantie en exécution dudit article 215.
-
-Pour les expéditions à l'étranger ces indications sont complétées par celle de la valeur des ouvrages;
-
-2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de l'autorisation susvisée à un autre marchand
-exportateur, également muni de cette autorisation, donne lieu à l'échange d'un avis de livraison et d'un accusé de réception,
-signés et datés, le premier par l'expéditeur, et le deuxième par le destinataire, chacune de ces pièces reproduisant les
-mentions prescrites par le 1°, et que les intéressés soient tenus de représenter ces pièces pendant le délai d'un an, à toute
-réquisition des agents de la garantie.
-
-Les autorisations accordées en exécution du présent article sont renouvelables au 1er janvier de chaque année. Elles sont
-révocables en tout temps.
-
-L'application des dispositions du présent article est suspendue provisoirement par l'article 4 de la loi du 16 octobre 1940,
-jusqu'à ce qu'il en soit décidé autrement par décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 215
-	  - CGIAN1 217 AL. 2, AL. 3
-	  - Loi n°1940-10-16 ART. 4
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
 
 
 ### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE.
@@ -4418,6 +4309,48 @@ dépositaires.
 
 ##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.
 
+###### Article 204
+
+Tout fabricant qui veut exporter des ouvrages d'or, d'argent ou de platine en franchise du droit de garantie et sans
+apposition des poinçons français peut les présenter à l'essai, achevés et sans marque du poinçon de maître, à condition
+d'avoir déclaré préalablement au bureau de garantie, le nombre, l'espèce et le poids desdits ouvrages et de s'être engagé à
+les y apporter achevés dans un délai n'excédant pas trente jours.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-423 du 30 mai 1984 - art. 2 (V) JORF 7 juin 1984
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 206 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
+
+
+###### Article 205
+
+Toutefois, les ouvrages d'orfèvrerie qui ne pourraient être essayés sans détérioration s'ils étaient achevés sont apportés
+bruts au bureau de garantie, soumis à l'essai et remis ensuite au fabricant pour en terminer la fabrication si celui-ci
+s'engage à les rapporter achevés dans le délai de trente jours.
+
+Les ouvrages ainsi rapportés après achèvement sont vérifiés par le service de la garantie qui s'assure de leur identité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-423 du 30 mai 1984 - art. 2 (V) JORF 7 juin 1984
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+
 ###### Article 206
 
 Tous les ouvrages visés aux articles 204 et 205, une fois achevés et soumis à l'essai, sont aussitôt renfermés dans une boîte
@@ -4491,6 +4424,38 @@ insculper au bureau de la garantie dont il dépend le poinçon de maître destin
 	**Modifié par**:
 
 	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+
+###### Article 215
+
+Les ouvrages d'or, d'argent et de platine à tous titres doivent être revêtus du poinçon visé à l'article 213 dès la fin de la
+fabrication et avant tout polissage ou vernissage.
+
+Les ouvrages qui ne sont pas marqués de ce poinçon en application des dispositions de l'article 545 du code général des
+impôts doivent exportés dans un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître.
+
+Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
+disposition par l'administration et qui doit être représenté à toute réquisition des agents.
+
+L'inscription au registre présente la nature des objets par espèce de métal (or, argent ou platine) leur nombre, leur titre,
+leur poids brut, et, pour les objets composés de pièces rapportées de métaux différents, le poids de chaque espèce de métal.
+
+Le fabricant est tenu d'inscrire également, après le polissage, le poids net des ouvrages pour servir de base à la prise en
+charge.
+
+Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
+sur ce registre pendant le mois précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 545
+	  - CGIAN1 213
+
+	**Modifié par**:
+
+	  - Décret n°84-423 du 30 mai 1984 - art. 3 (V) JORF 7 juin 1984
 
 
 ###### Article 216
@@ -4715,5 +4680,47 @@ de la sortie du colis.
 	**Abrogé par**:
 
 	  - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
+
+
+##### II : Bijoux à tous titres.
+
+###### Article 218
+
+Les fabricants et marchands exportateurs qui en font la demande peuvent être dispensés par autorisation individuelle des
+formalités prévues à l'article 217, deuxième et troisième alinéas, sous réserve :
+
+1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur et à mesure des livraisons, le titre, le
+nombre par espèce d'objets semblables et le poids net des ouvrages expédiés à l'étranger ou à un autre marchand jouissant de
+la même autorisation, avec l'indication du nom et de l'adresse du destinataire, et que ces indications soient reproduites sur
+le relevé mensuel fourni au bureau de garantie en exécution dudit article 215.
+
+Pour les expéditions à l'étranger ces indications sont complétées par celle de la valeur des ouvrages;
+
+2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de l'autorisation susvisée à un autre marchand
+exportateur, également muni de cette autorisation, donne lieu à l'échange d'un avis de livraison et d'un accusé de réception,
+signés et datés, le premier par l'expéditeur, et le deuxième par le destinataire, chacune de ces pièces reproduisant les
+mentions prescrites par le 1°, et que les intéressés soient tenus de représenter ces pièces pendant le délai d'un an, à toute
+réquisition des agents de la garantie.
+
+Les autorisations accordées en exécution du présent article sont renouvelables au 1er janvier de chaque année. Elles sont
+révocables en tout temps.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 217, 215
+
+	**Modifié par**:
+
+	  - Décret n°84-423 du 30 mai 1984 - art. 4 (V) JORF 7 juin 1984
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
