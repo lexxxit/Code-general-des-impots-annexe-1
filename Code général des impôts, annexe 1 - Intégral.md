@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1990-06-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1378,18 +1378,22 @@ de ce déficit est établie par l'exploitant.
 Les registres mis par l'administration à la disposition des exploitants de distillerie pour recevoir les déclarations prévues
 au présent règlement doivent être tenus sans blanc, surcharge ou rature.
 
-Ils doivent demeurer constamment à la disposition des agents des impôts et être conservés en bon état jusqu'à l'expiration du
-délai prévu à l'article L. 82 du livre des procédures fiscales.
+Ils doivent demeurer constamment à la disposition des agents des impôts et être conservés en bon état selon les modalités
+prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L82
+	  - CGI L102 B
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 90
