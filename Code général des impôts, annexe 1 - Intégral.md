@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-03-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2117,6 +2117,29 @@ Le service arrête ce registre au moins une fois par an et il le règle dans les
 
 ##### 2° : Dénaturation des alcools par un procédé spécial
 
+###### Article 185
+
+Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
+alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
+
+(Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 62 () JORF 11 mars 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 186
 
 Lesdits industriels mentionnent dans la demande d'autorisation prévue à l'article 165, les indications supplémentaires
@@ -2205,27 +2228,6 @@ dispenser des formalités à la circulation.
 	**Cite**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 188 (V)
-
-
-##### Dénaturation des alcools par un procédé spécial.
-
-###### Article 185
-
-Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
-alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
-
-Toutefois, les opérations de dénaturation de l'alcool éthylique destiné à être incorporé à du supercarburant et de l'essence
-sont effectuées sous la surveillance de l'administration des douanes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
-
-	**Modifié par**:
-
-	  - Décret n°88-766 du 22 juin 1988 - art. 2 (V) JORF 23 juin 1988
 
 
 ##### 3° : Emploi de l'alcool sans dénaturation préalable
