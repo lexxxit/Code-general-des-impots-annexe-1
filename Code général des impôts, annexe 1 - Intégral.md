@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1983-07-02
+Version Consolidée au 1983-07-09
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -1299,29 +1299,6 @@ l'autre destiné aux opérations à terme et aux reports.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 249
-
-Les règlements des marchés à terme ou à livrer ne peuvent être modifiés qu'en vertu de délibérations des chambres de commerce
-et d'industrie prises après avis des groupements intéressés suivant la procédure déterminée par arrêté du ministre de
-l'industrie. Ces délibérations sont adressées au ministre et sont exécutoires si, dans un délai qui ne peut excéder deux
-mois, le ministre n'a pas notifié son opposition à la chambre de commerce et d'industrie intéressée.
-
-Lorsque le ministre ne s'oppose pas à leur exécution, il en ordonne l'insertion au Journal officiel. Cette insertion doit
-avoir lieu au plus tard à l'expiration du délai ci-dessus prévu.
-
-Sont soumis aux mêmes dispositions l'établissement des règlements nouveaux et l'abrogation des règlements en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°83-610 du 8 juillet 1983 - art. 50 () JORF 9 juillet 1983
 
 
 ###### Article 250
