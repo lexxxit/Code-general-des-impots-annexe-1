@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1996-05-12
+Version Consolidée au 1998-04-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -713,7 +713,7 @@ récolement et au règlement du compte.
 Le présent règlement des distilleries détermine les conditions dans lesquelles toutes personnes physiques ou morales, autres
 que les bouilleurs de cru, sont autorisées à procéder aux opérations de production, de repasse, de repassage, de
 rectification, de déshydratation, de récupération, de régénération d'alcools de toute nature et de toutes origines soumis au
-régime fiscal de l'alcool en vertu ((des dispositions du I de l'article 401 du code général des impôts)) (M).
+régime fiscal de l'alcool en vertu des dispositions du I de l'article 401 du code général des impôts.
 
 Pour l'application de ce règlement :
 
@@ -724,8 +724,8 @@ précédents par la voie publique, des lieux utilisés pour l'entreposage des ma
 La campagne de distillation s'entend de la période allant du 1er septembre au 31 août de l'année suivante.
 
 Le règlement institue un régime général applicable aux distilleries dans lesquelles la prise en charge de l'alcool obtenu est
-effectuée au moyen de compteurs agréés apposés sur les appareils de distillation en application des dispositions des articles
-314 et 341 du code général des impôts.
+effectuée au moyen de compteurs agréés ((par le directeur régional des douanes et droits indirects)) (M) apposés sur les
+appareils de distillation en application des dispositions des articles 314 et 341 du code général des impôts.
 
 Il établit un régime spécial applicable, sous réserve des dispositions de l'article 78 ci-après, aux distilleries dans
 lesquelles les conditions techniques existantes amènent à différer provisoirement l'installation de tels compteurs.
@@ -741,11 +741,7 @@ lesquelles les conditions techniques existantes amènent à différer provisoire
 
 	**Modifié par**:
 
-	  - Loi - art. 25 () JORF 31 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°97-1195 1997-12-24 art. 7 4, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Cité par**:
 
@@ -754,7 +750,7 @@ lesquelles les conditions techniques existantes amènent à différer provisoire
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### 2° : Régime général
@@ -766,15 +762,15 @@ alinéa de l'article 57, l'exploitant doit remettre au service des douanes et dr
 
 Une déclaration générale d'exploitation indiquant les opérations devant être réalisées dans la distillerie et les autres
 activités exercées dans l'établissement ainsi que les matières premières alcooligènes à utiliser et les alcools et boissons
-alcooliques détenus dans la distillerie; 
+alcooliques détenus dans la distillerie;
 
 Un plan de l'établissement précisant l'emplacement et la contenance, par référence à une échelle centimétrique, des
 appareils, vaisseaux ou cuves d'entrepôt, et indiquant les matières premières alcooliques, spiritueux et alcools utilisés
-dans la distillerie; 
+dans la distillerie;
 
-Un plan schématique de l'appareillage présentant intégralement le circuit de l'alcool et des sous-produits alcooliques. 
+Un plan schématique de l'appareillage présentant intégralement le circuit de l'alcool et des sous-produits alcooliques.
 
-Avant sa mise en service, toute installation doit être agréée par l'administration. 
+Avant sa mise en service, toute installation doit être agréée par le directeur régional des douanes et droits indirects.
 
 Toute modification dans la nature des opérations à réaliser doit faire l'objet d'une déclaration préalable. Il en est de même
 pour toute modification des installations. Dans ce cas, des plans rectifiés doivent être fournis par l'exploitant à l'appui
@@ -788,8 +784,7 @@ de sa déclaration.
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 11 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°97-1195 1997-12-24 art. 7 5, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Cité par**:
 
@@ -798,7 +793,7 @@ de sa déclaration.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 59
@@ -827,33 +822,36 @@ prélèvement d'un échantillon moyen sur toute la hauteur du liquide qu'ils con
 ###### Article 60
 
 L'exploitant est tenu de mettre en place, à ses frais, sur tous les points des installations désignés par le service des
-douanes et droits indirects, un dispositif approprié, agréé par l'administration, permettant l'apposition de scellés
-inviolables de nature à prévenir tout détournement d'alcool avant sa prise en charge par l'administration. 
+douanes et droits indirects, un dispositif approprié, agréé par ((le directeur régional des douanes et droits indirects)) (M)
+permettant l'apposition de scellés inviolables de nature à prévenir tout détournement d'alcool avant sa prise en charge par
+l'administration.
 
-Les scellés sont apposés au début des travaux de distillation et maintenus jusqu'à leur achèvement. 
+Les scellés sont apposés au début des travaux de distillation et maintenus jusqu'à leur achèvement.
 
 Durant la période d'inactivité de la distillerie, des scellés peuvent être apposés sur les appareils de production ou de
 traitement de l'alcool afin de les rendre inutilisables à ces usages.
 
-Il est interdit à l'exploitant de rompre, d'altérer les scellés apposés par les agents du  service ou d'apporter, sans
-agrément préalable, une modification dans le circuit scellé, sauf par mesure urgente de sécurité. 
+Il est interdit à l'exploitant de rompre, d'altérer les scellés apposés par les agents du service ou d'apporter, sans
+agrément préalable ((du directeur régional des douanes et droits indirects)) (M) permettant , une modification dans le
+circuit scellé, sauf par mesure urgente de sécurité.
 
-Dans le cas où un scellé est rompu accidentellement, l'exploitant est tenu d'en faire immédiatement la déclaration. 
+Dans le cas où un scellé est rompu accidentellement, l'exploitant est tenu d'en faire immédiatement la déclaration.
 
 Si aucun agent du service n'est présent dans la distillerie pour la recevoir, cette déclaration est consignée par
 l'exploitant sur un registre mis à sa disposition à cet effet. Dans ce cas, elle doit indiquer la date, l'heure, les
 circonstances de la rupture et le moyen utilisé pour prévenir les agents du service.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 13 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°97-1195 1997-12-24 art. 7 6 7, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ###### Article 61
@@ -861,21 +859,22 @@ circonstances de la rupture et le moyen utilisé pour prévenir les agents du se
 L'exploitant est tenu d'effectuer, à ses frais, les aménagements propres à assurer une utilisation normale des compteurs, que
 ceux-ci soient sa propriété ou qu'ils lui soient fournis par l'administration. Ces aménagements lui sont indiqués par les
 agents habilités par l'administration des douanes et droits indirects qui établissent un plan d'installation, en surveillent
-la réalisation et procèdent à son agrément dès son achèvement. 
+la réalisation et procèdent à son agrément dès son achèvement.
 
-Aucune modification d'une installation agréée ne peut être effectuée sans l'accord préalable des agents habilités par
-l'administration des douanes et droits indirects qui en contrôlent l'exécution.
+Aucune modification d'une installation agréée ne peut être effectuée sans l'accord préalable ((du directeur régional des
+douanes et droits indirects)) (M) qui en contrôlent l'exécution.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 14 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°97-1195 1997-12-24 art. 7 8, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 62
@@ -1250,15 +1249,21 @@ séparation agréée par l'administration, les communications interdites par l'a
 ###### Article 78
 
 Sont assimilées aux distilleries soumises au régime général les distilleries non équipées ou partiellement équipées en
-compteur dans lesquelles, pour assurer la prise en charge de l'alcool produit, l'administration juge utile soit d'imposer un
-système de coulage sous circuit scellé, soit d'instituer un régime de surveillance permanente en fonction de la nature ou de
-la qualité de l'alcool obtenu.
+compteur dans lesquelles, pour assurer la prise en charge de l'alcool produit, ((le directeur régional des douanes et droits
+indirects)) (M) juge utile soit d'imposer un système de coulage sous circuit scellé, soit d'instituer un régime de
+surveillance permanente en fonction de la nature ou de la qualité de l'alcool obtenu.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°97-1195 1997-12-24 art. 7 9, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ##### 3° : Régime spécial
@@ -1650,14 +1655,16 @@ Il ne doit être fait aucun soutirage pendant l'heure qui suit le versement.
 
 ###### Article 162
 
-Les industriels souscrivant tous les jours des déclarations de fabrication peuvent être autorisés à consigner ces
-déclarations sur des registres fournis par eux et conformes au modèle donné par l'administration. Ces registres sont
-préalablement cotés et paraphés par le chef de service local.
+Les industriels souscrivant tous les jours des déclarations de fabrication peuvent être autorisés par ((le directeur régional
+des douanes et droits indirects)) (M) à consigner ces déclarations sur des registres fournis par eux et conformes au modèle
+donné  par l'administration.  Ces registres sont préalablement cotés et paraphés par le chef de service local.
 
 Ne peuvent être comprises dans les déclarations prévues aux articles 160 et 161, les quantités d'alcool en nature versées sur
 des extraits, alcoolats, teintures déjà fabriqués ou sur des matières épuisées par des fabrications antérieures. La même
 quantité d'alcool ne peut entrer qu'une seule fois en ligne de compte alors même qu'elle servirait à plusieurs opérations
 successives.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -1665,9 +1672,13 @@ successives.
 
 	  - CGIAN1 160, 161
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°97-1195 1997-12-24 art. 7 10, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ###### Article 163
@@ -1763,23 +1774,23 @@ où sont placés les alcools dénaturés et les produits fabriqués avec ces alc
 voie publique avec les locaux contenant des alambics ou avec ceux où se trouvent des alcools non dénaturés destinés à la
 vente.
 
-Toutefois, l'administration peut admettre des communications autrement que par la voie publique entre, d'une part, les locaux
-affectés à la dénaturation et au logement des alcools et, d'autre part, les locaux où se trouvent des alcools non dénaturés
-destinés à la vente, à la condition que les locaux visés soient complètement séparés.
+Toutefois, le directeur régional des douanes et droits indirects peut admettre des communications autrement que par la voie
+publique entre, d'une part, les locaux affectés à la dénaturation et au logement des alcools et, d'autre part, les locaux où
+se trouvent des alcools non dénaturés destinés à la vente, à la condition que les locaux visés soient complètement séparés.
 
-En outre, si la nature des fabrications exige l'emploi d'appareils de distillation ou de rectification, l'administration peut
-autoriser, aux conditions qu'elle détermine, l'installation de ces appareils dans les locaux affectés à la dénaturation ou à
-l'emmagasinement des alcools dénaturés.
+En outre, si la nature des fabrications exige l'emploi d'appareils de distillation ou de rectification, le directeur régional
+des douanes et droits indirects peut autoriser, aux conditions qu'il détermine, l'installation de ces appareils dans les
+locaux affectés à la dénaturation ou à l'emmagasinement des alcools dénaturés.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-1195 1997-12-24 art. 7 11, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 169 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 168
@@ -1806,19 +1817,20 @@ Les appareils et récipients reçoivent un numéro d'ordre qui est gravé ou pei
 contenance, en caractères d'au moins 5 centimètres de hauteur, par les soins et aux frais des industriels.
 
 Il ne peut être procédé à des opérations de dénaturation que si les installations ou les modifications intervenues ont été
-agréées par le service des douanes et droits indirects. Celui-ci peut astreindre les dénaturateurs à prendre les mesures
-nécessaires pour assurer la sécurité de ses agents.
+agréées par ((le directeur régional des douanes et droits indirects)) (M). Celui-ci peut astreindre les dénaturateurs à
+prendre les mesures nécessaires pour assurer la sécurité de ses agents.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 31 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°97-1195 1997-12-24 art. 7 12, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 169
@@ -1890,20 +1902,21 @@ Aucune dénaturation ne peut être faite hors la présence du service.
 ###### Article 172
 
 La quantité minimale sur laquelle doit porter chaque opération de dénaturation par le procédé général est fixé à 20
-hectolitres en volume. 
+hectolitres en volume.
 
-Des fixations particulières peuvent être autorisées par le service des douanes et droits indirects.
+Des fixations particulières peuvent être autorisées par ((le directeur régional des douanes et droits indirects)) (M).
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 33 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°97-1195 1997-12-24 art. 7 13, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ###### Article 173
@@ -2153,33 +2166,24 @@ alcools par un procédé différent du procédé général, ou de fabriquer des 
 ###### Article 186
 
 Lesdits industriels mentionnent dans la demande d'autorisation prévue à l'article 165, les indications supplémentaires
-suivantes :
+suivantes : 
 
-1° Le procédé de dénaturation proposé ;
+1° Le procédé de dénaturation proposé ; 
 
-2° La quantité approximative d'alcool nécessaire pour les fabrications d'une année.
+2° La quantité approximative d'alcool nécessaire pour les fabrications d'une année. 
 
-Le ministre de l'économie et des finances statue après avis du service des laboratoires de la direction générale des douanes
-et droits indirects.
+Le directeur régional des douanes et droits indirects statue après avis du service des laboratoires de la direction générale
+des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN1 165
-
 	**Modifié par**:
 
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
+	  - Décret n°97-1195 1997-12-24 art. 7 14, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°89-801 1989-10-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 14 juillet 1989
+	  - Code général des impôts annexe 1, CGIAN1. - art. 165 (V)
 
 
 ###### Article 187
@@ -2204,19 +2208,20 @@ prévues à l'article 631 du code général des impôts.
 
 ###### Article 188
 
-Sauf dérogation accordée par l'administration aux conditions qu'elle détermine, les alcools dénaturés par un procédé spécial
-doivent être utilisés au lieu même de leur dénaturation à la fabrication de produits achevés, industriels et marchands,
-reconnus tels à dire d'experts en cas de contestation entre le fabricant et l'administration.
+Sauf dérogation accordée par le directeur régional des douanes et droits indirects aux conditions qu'il détermine, les
+alcools dénaturés par un procédé spécial doivent être utilisés au lieu même de leur dénaturation à la fabrication de produits
+achevés, industriels et marchands, reconnus tels à dire d'experts en cas de contestation entre le fabricant et
+l'administration.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-1195 1997-12-24 art. 7 15, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 189 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 189
@@ -2245,16 +2250,18 @@ dispenser des formalités à la circulation.
 ###### Article 190
 
 Lorsque, pour des raisons d'ordre technique, l'emploi d'alcool dénaturé par le procédé général ou par un procédé spécial
-s'avère incompatible avec la fabrication de certains produits, le service des douanes et droits indirects peut, sur l'avis du
-service des laboratoires de la direction générale des douanes et droits indirects ,autoriser les industriels qui en font la
-demande à employer auxdites fabrications, en franchise des droits, de l'alcool non dénaturé. 
+s'avère incompatible avec la fabrication de certains produits, ((le directeur régional des douanes et droits indirects)) (M)
+peut, sur l'avis du service des laboratoires de la direction générale des douanes et droits indirects ,autoriser les
+industriels qui en font la demande à employer auxdites fabrications, en franchise des droits, de l'alcool non dénaturé.
 
 Cette autorisation, essentiellement révocable, est subordonnée à la condition que le circuit suivi par l'alcool au cours de
 la fabrication soit complètement clos ou que ladite fabrication ait lieu sous la surveillance du service des douanes et
-droits indirects. 
+droits indirects.
 
 Les frais de surveillance sont remboursés par l'industriel dans les conditions prévues à l'article 631 du code général des
 impôts.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -2264,12 +2271,11 @@ impôts.
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 39 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°97-1195 1997-12-24 art. 7 16, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 191
@@ -2285,18 +2291,13 @@ transformé.
 
 En cas de cessation de leur industrie ou de retrait de l'autorisation administrative, les dénaturateurs, ainsi que les
 industriels autorisés à employer en franchise des droits de l'alcool sans dénaturation préalable, doivent expédier leur stock
-d'alcool nature à l'industriel désigné par le service des douanes et droits indirects.
+d'alcool nature à l'industriel désigné par le directeur régional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 40 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°97-1195 1997-12-24 art. 7 17, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 
 ###### Article 193
@@ -2611,6 +2612,48 @@ compte.
 	  - Décret n°94-899 1994-10-17
 
 
+###### Article 218
+
+Les fabricants et marchands exportateurs qui en font la demande peuvent être dispensés par autorisation individuelle accordée
+par le directeur régional des douanes et droits indirects des formalités prévues à l'article 217, deuxième et troisième
+alinéas, sous réserve :
+
+1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur et à mesure des livraisons, le titre, le
+nombre par espèce d'objets semblables et le poids net des ouvrages expédiés à l'étranger ou à un autre marchand jouissant de
+la même autorisation, avec l'indication du nom et de l'adresse du destinataire, et que ces indications soient reproduites sur
+le relevé mensuel fourni au bureau de garantie en exécution dudit article 215.
+
+Pour les expéditions à l'étranger ces indications sont complétées par celle de la valeur des ouvrages ;
+
+2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de l'autorisation susvisée à un autre marchand
+exportateur, également muni de cette autorisation, donne lieu à l'échange d'un avis de livraison et d'un accusé de réception,
+signés et datés, le premier par l'expéditeur, et le deuxième par le destinataire, chacune de ces pièces reproduisant les
+mentions prescrites par le 1°, et que les intéressés soient tenus de représenter ces pièces pendant le délai d'un an, à toute
+réquisition des agents de la garantie.
+
+Les autorisations accordées en exécution du présent article sont renouvelables au 1er janvier de chaque année. Elles sont
+révocables en tout temps.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 217, 215
+
+	**Modifié par**:
+
+	  - Décret n°97-1195 1997-12-24 art. 7 18, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 22 avril 1998
+
+
 ###### Article 219
 
 Un compte d'entrées et de sorties est ouvert à chaque fabricant, expéditeur intracommunautaire et exportateur pour les objets
@@ -2673,47 +2716,5 @@ ateliers privés, conformément aux prescriptions de l'article 9 du code des ins
 	**Cite**:
 
 	  - Code des instruments monétaires et des médailles - art. 9 (M)
-
-
-##### II : Bijoux à tous titres.
-
-###### Article 218
-
-Les fabricants et marchands exportateurs qui en font la demande peuvent être dispensés par autorisation individuelle des
-formalités prévues à l'article 217, deuxième et troisième alinéas, sous réserve :
-
-1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur et à mesure des livraisons, le titre, le
-nombre par espèce d'objets semblables et le poids net des ouvrages expédiés à l'étranger ou à un autre marchand jouissant de
-la même autorisation, avec l'indication du nom et de l'adresse du destinataire, et que ces indications soient reproduites sur
-le relevé mensuel fourni au bureau de garantie en exécution dudit article 215.
-
-Pour les expéditions à l'étranger ces indications sont complétées par celle de la valeur des ouvrages;
-
-2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de l'autorisation susvisée à un autre marchand
-exportateur, également muni de cette autorisation, donne lieu à l'échange d'un avis de livraison et d'un accusé de réception,
-signés et datés, le premier par l'expéditeur, et le deuxième par le destinataire, chacune de ces pièces reproduisant les
-mentions prescrites par le 1°, et que les intéressés soient tenus de représenter ces pièces pendant le délai d'un an, à toute
-réquisition des agents de la garantie.
-
-Les autorisations accordées en exécution du présent article sont renouvelables au 1er janvier de chaque année. Elles sont
-révocables en tout temps.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 217, 215
-
-	**Modifié par**:
-
-	  - Décret n°84-423 du 30 mai 1984 - art. 4 (V) JORF 7 juin 1984
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
 
 
