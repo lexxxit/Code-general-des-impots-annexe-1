@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1993-03-11
+Version Consolidée au 1993-08-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2438,7 +2438,8 @@ Les ouvrages d'or, d'argent et de platine à tous titres doivent être revêtus 
 fabrication et avant tout polissage ou vernissage.
 
 Les ouvrages qui ne sont pas marqués de ce poinçon en application des dispositions de l'article 545 du code général des
-impôts doivent exportés dans un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître.
+impôts doivent être expédiés vers les autres états membres de la Communauté économique européenne ou exportés vers les pays
+tiers dans un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître (1).
 
 Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
 disposition par l'administration et qui doit être représenté à toute réquisition des agents.
@@ -2452,6 +2453,8 @@ charge.
 Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
 sur ce registre pendant le mois précédent.
 
+(1) Dispositions en vigueur à compter du 1er janvier 1993.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -2461,7 +2464,11 @@ sur ce registre pendant le mois précédent.
 
 	**Modifié par**:
 
-	  - Décret n°84-423 du 30 mai 1984 - art. 3 (V) JORF 7 juin 1984
+	  - Loi - art. 38 (V) JORF 5 janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 
 ###### Article 216
