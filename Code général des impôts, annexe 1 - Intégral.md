@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1988-06-23
+Version Consolidée au 1989-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -970,18 +970,23 @@ Pour le contrôle du titre déclaré, seuls font foi les alcoomètres et thermom
 sont pourvus par l'administration.
 
 En cas de désaccord sur le titre alcoolique d'un produit, un échantillon de celui-ci est soumis au service des laboratoires
-du ministère de l'économie et des finances.
+de la direction générale des douanes et droits indirects.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988 incorporé le 14 juillet 1989
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988 incorporé le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 71
@@ -1636,6 +1641,24 @@ obligations des distillateurs de profession.
 	  - Code général des impôts annexe 1, CGIAN1. - art. 167 (V)
 
 
+###### Article 170
+
+Des décisions du ministre de l'économie et des finances prises sur l'avis du service des laboratoires de la direction
+générale des douanes et droits indirects déterminent les conditions que doivent remplir les alcools présentés à la
+dénaturation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+
 ###### Article 174
 
 Chez les dénaturateurs d'alcool par le procédé général, il est tenu un compte d'alcool en nature.
@@ -1825,18 +1848,6 @@ la sécurité de ses agents.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 170
-
-Des décisions du ministre de l'économie et des finances prises sur l'avis du service des laboratoires du ministère de
-l'économie et des finances déterminent les conditions que doivent remplir les alcools présentés à la dénaturation.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 171
 
 Chaque opération de dénaturation doit être précédée d'une déclaration mentionnant :
@@ -1959,6 +1970,38 @@ Le service arrête ce registre au moins une fois par an et il le règle dans les
 
 ##### 2° : Dénaturation des alcools par un procédé spécial
 
+###### Article 186
+
+Lesdits industriels mentionnent dans la demande d'autorisation prévue à l'article 165, les indications supplémentaires
+suivantes :
+
+1° Le procédé de dénaturation proposé ;
+
+2° La quantité approximative d'alcool nécessaire pour les fabrications d'une année.
+
+Le ministre de l'économie et des finances statue après avis du service des laboratoires de la direction générale des douanes
+et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 165
+
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+
 ###### Article 187
 
 Chaque opération de dénaturation par un procédé spécial donne lieu au paiement des frais de surveillance dans les conditions
@@ -2017,37 +2060,14 @@ sont effectuées sous la surveillance de l'administration des douanes.
 	  - Décret n°88-766 du 22 juin 1988 - art. 2 (V) JORF 23 juin 1988
 
 
-###### Article 186
-
-Lesdits industriels mentionnent dans la demande d'autorisation prévue à l'article 165, les indications supplémentaires
-suivantes :
-
-1° Le procédé de dénaturation proposé;
-
-2° La quantité approximative d'alcool nécessaire pour les fabrications d'une année.
-
-Le ministre de l'économie et des finances statue après avis du service des laboratoires du ministère de l'économie et des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 165
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 189
 
 Les produits à base d'alcool dénaturé par un procédé spécial circulent librement s'ils ne renferment pas d'alcool non
 transformé ou s'ils ont le caractère de produits achevés, définis à l'article 188.
 
 Si, ne présentant pas ce caractère, ces produits contiennent encore de l'alcool à l'état libre, le service des impôts peut,
-sur l'avis du service des laboratoires du ministère de l'économie et des finances, les dispenser des formalités à la
-circulation.
+sur l'avis du service des laboratoires de la direction générale des douanes et droits indirects, les dispenser des formalités
+à la circulation.
 
 **Liens relatifs à cet article**
 
@@ -2055,9 +2075,14 @@ circulation.
 
 	  - CGIAN1 188
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
 
 
 ##### 3° : Emploi de l'alcool sans dénaturation préalable
@@ -2075,8 +2100,8 @@ transformé.
 
 Lorsque, pour des raisons d'ordre technique, l'emploi d'alcool dénaturé par le procédé général ou par un procédé spécial
 s'avère incompatible avec la fabrication de certains produits, le service des impôts peut, sur l'avis du service des
-laboratoires du ministère de l'économie et des finances, autoriser les industriels qui en font la demande à employer auxdites
-fabrications, en franchise des droits, de l'alcool non dénaturé.
+laboratoires de la direction générale des douanes et droits indirects ,autoriser les industriels qui en font la demande à
+employer auxdites fabrications, en franchise des droits, de l'alcool non dénaturé.
 
 Cette autorisation, essentiellement révocable, est subordonnée à la condition que le circuit suivi par l'alcool au cours de
 la fabrication soit complètement clos ou que ladite fabrication ait lieu sous la surveillance du service des impôts.
@@ -2090,9 +2115,14 @@ impôts.
 
 	  - CGI 631
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
 
 
 ##### Dispositions diverses.
