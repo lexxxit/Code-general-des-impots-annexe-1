@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2002-03-31
+Version Consolidée au 2004-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1370,21 +1370,17 @@ d'alcool nature à l'industriel désigné par le directeur régional des douanes
 ###### Article 204
 
 Tout fabricant qui veut exporter ou livrer à destination d'un autre Etat membre de l'Union européenne des ouvrages d'or ou
-contenant de l'or, des ouvrages d'argent ou des ouvrages de platine en franchise du droit spécifique prévu par l'article 527
-du code général des impôts et sans apposition des poinçons français doit en faire la déclaration préalable au bureau de
-garantie dont il relève. Cette déclaration indique le nombre, l'espèce et le poids des ouvrages et contient un engagement de
-les exporter ou de les livrer à destination d'un autre Etat membre de l'Union européenne dans un délai de trois mois à
-compter de cette déclaration. Le fabricant peut les présenter à l'essai achevés avec ou sans marque de poinçon de maître.
+contenant de l'or, des ouvrages d'argent ou des ouvrages de platine sans apposition des poinçons français doit en faire la
+déclaration préalable au bureau de garantie dont il relève. Cette déclaration indique le nombre, l'espèce et le poids des
+ouvrages et contient un engagement de les exporter ou de les livrer à destination d'un autre Etat membre de l'Union
+européenne dans un délai de trois mois à compter de cette déclaration. Le fabricant peut les présenter à l'essai achevés avec
+ou sans marque de poinçon de maître.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 527
-
 	**Modifié par**:
 
-	  - Décret n°95-1137 du 23 octobre 1995 - art. 1 () JORF 28 octobre 1995
+	  - Décret n°2004-587 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -1393,7 +1389,7 @@ compter de cette déclaration. Le fabricant peut les présenter à l'essai achev
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 205
@@ -1449,26 +1445,6 @@ soit par la remise en fabrication d'ouvrages refondus après accord exprès du s
 	**Liens**:
 
 	  - HISTO: Edition du 12 mai 1996
-
-
-###### Article 209
-
-Les manquants reconnus au compte des fabricants lors des recensements et inventaires sont soumis au paiement intégral du
-droit spécifique prévu à l'article 527 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 527
-
-	**Modifié par**:
-
-	  - Décret n°95-1137 du 23 octobre 1995 - art. 6 () JORF 28 octobre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2004-587 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 
 ###### Article 210
