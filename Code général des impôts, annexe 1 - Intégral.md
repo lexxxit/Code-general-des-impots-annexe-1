@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1983-07-09
+Version Consolidée au 1983-12-30
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -219,19 +219,27 @@ des marchés ou parties de marchés imposables, tel qu'il résulte de la comptab
 ###### Article 23 V 8
 
 La déclaration visée à l'article 23 V 7 doit être adressée au service des impôts dans le délai fixé pour la production de la
-déclaration prévue aux articles 53 et 223 du code général des impôts.
+déclaration prévue aux articles 53 A et 223 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 223
-	  - CGI 53
+	  - CGI 53 A
 	  - CGIAN1 23 V 7
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - CGIAN2 163 octies III
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
 
 
 ###### Article 23 V 10
