@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2002-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -627,49 +627,45 @@ L'exploitant est tenu d'effectuer, à ses frais, les aménagements propres à as
 ###### Article 62
 
 La mise en service des compteurs, leur réglage et leur entretien ne peuvent être effectués que par l'organisme cité au
-troisième alinéa de l'article 57 alors même que les compteurs seraient la propriété du distillateur. 
+cinquième alinéa de l'article 57 alors même que les compteurs seraient la propriété du distillateur. 
 
-L'exploitant a la faculté d'assister à ces opérations ou de s'y faire représenter.
+L'exploitant a la faculté d'assister à ces opérations ou de s'y faire représenter. 
 
 Il est tenu d'utiliser l'installation dans les conditions notifiées par ce même organisme.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN1 57
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+	  - Décret n°2002-923 du 6 juin 2002 - art. 5 () JORF 8 juin 2002
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 57 (V)
 
 
 ###### Article 63
 
 Si l'exploitant constate un incident ou une anomalie de fonctionnement d'un compteur, il est tenu d'en informer immédiatement
-l'organisme cité au troisième alinéa de l'article 57.
+l'organisme cité au cinquième alinéa de l'article 57.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN1 57
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+	  - Décret n°2002-923 du 6 juin 2002 - art. 5 () JORF 8 juin 2002
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 57 (V)
 
 
 ###### Article 65
@@ -701,7 +697,7 @@ Les dispositions ci-dessus s'appliquent en cas de mise en activité d'une distil
 Dès la mise en service de l'installation réalisée en conformité avec les conditions d'aménagement prévues aux articles 61 et
 62, les alcools produits sont enregistrés dans la comptabilité matières d'après les indications des compteurs ou de tout
 autre dispositif inviolable ou procédure de contrôle, pour les distilleries non pourvues de compteurs, conformément au
-troisième alinéa de l'article 57.
+cinquième alinéa de l'article 57. 
 
 Les enregistrements ainsi opérés sont corrigés lorsque le contrôle technique des compteurs effectué dans l'un des cas prévus
 à l'article R. 32-1 du livre des procédures fiscales fait apparaître une discordance de plus de 0,5 % entre les indications
@@ -709,18 +705,18 @@ des appareils et les quantités d'alcool réellement produites.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 61, 62, 57
-	  - Livre des procédures fiscales R32-1
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+	  - Décret n°2002-923 du 6 juin 2002 - art. 5 () JORF 8 juin 2002
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 57 (V)
+	  - Livre des procédures fiscales - art. R*32-1 (V)
 
 
 ###### Article 70
