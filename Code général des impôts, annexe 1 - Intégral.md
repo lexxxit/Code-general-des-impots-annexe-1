@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1986-07-31
+Version Consolidée au 1987-01-27
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -365,35 +365,6 @@ A défaut, les locations de moyens de transport et les prestations ci-dessus son
 ### CONTRIBUTIONS INDIRECTES
 
 #### BOISSONS
-
-##### PRODUCTION DES ALCOOLS.
-
-###### Article 65
-
-Quinze jours au moins avant le début des travaux de chaque campagne [*délai*], l'exploitant doit faire tenir aux agents des
-impôts, qui en accusent réception, une déclaration indiquant [*mentions*] :
-
-La date envisagée pour le début des travaux et leur durée probable;
-
-La nature et le programme des opérations qui seront effectuées au cours de cette campagne.
-
-Toute modification apportée à ce programme doit être déclarée quarante-huit heures à l'avance.
-
-Si les opérations envisagées nécessitent un accord préalable du service des alcools, un exemplaire de cet accord doit être
-joint à la déclaration.
-
-Les dispositions ci-dessus s'appliquent en cas de mise en activité d'une distillerie en cours de campagne.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 81 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### REGIMES PARTICULIERS.
 
@@ -3058,6 +3029,32 @@ effet.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 65
+
+Quinze jours au moins avant le début des travaux de chaque campagne [*délai*], l'exploitant doit faire tenir aux agents des
+impôts, qui en accusent réception, une déclaration indiquant [*mentions*] :
+
+La date envisagée pour le début des travaux et leur durée probable;
+
+La nature et le programme des opérations qui seront effectuées au cours de cette campagne.
+
+Toute modification apportée à ce programme doit être déclarée quarante-huit heures à l'avance.
+
+Si les opérations envisagées nécessitent un accord préalable , un exemplaire de cet accord doit être joint à la déclaration.
+
+Les dispositions ci-dessus s'appliquent en cas de mise en activité d'une distillerie en cours de campagne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 81 (V)
 
 
 ###### Article 67
