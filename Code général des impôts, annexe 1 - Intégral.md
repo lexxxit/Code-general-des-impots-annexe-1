@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1993-08-18
+Version Consolidée au 1994-09-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2378,68 +2378,16 @@ prescrits par la loi.
 	  - HISTO: EDITION 1979-07-01
 
 
-##### Exportation
-
-##### II : Bijoux à tous titres
-
-###### Article 213
-
-L'empreinte du poinçon de maître des fabricants d'ouvrages d'or, d'argent et de platine visés à l'article 545 du code général
-des impôts doit avoir la forme d'un pentagone irrégulier dont tous les côtés sont égaux et représentant un carré surmonté
-d'un triangle.
-
-Les proportions de ce poinçon sont fixées par le fabricant, selon le genre et la dimension de l'objet fabriqué.
-
-La lettre initiale du nom du fabricant et le symbole prévus à l'article 524 du code général des impôts doivent être empreints
-dans la partie supérieure du poinçon, et l'indication du titre de l'alliage doit être gravée en chiffres dans la partie
-inférieure.
-
-Ladite indication peut être exprimée, soit en millièmes, soit en carats. Le nombre indiquant les carats doit être suivi de la
-lettre C, et celui désignant les millièmes de la lettre M.
-
-Toute autre indication du titre de l'or, de l'argent ou du platine est interdite. Le poinçon doit être remplacé lorsque ces
-empreintes ne sont plus suffisamment nettes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 524
-	  - CGI 545
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Loi n°53-558 1953-07-01 ART. 9 JORF 2 JUILLET 1983
-
-
-###### Article 214
-
-Avant de commencer la fabrication des objets d'or, d'argent et de platine à tous titres, l'industriel est tenu de faire
-insculper au bureau de la garantie dont il dépend le poinçon de maître destiné à la marque de ces objets.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
+##### II : Bijoux à tous titres.
 
 ###### Article 215
 
-Les ouvrages d'or, d'argent et de platine à tous titres doivent être revêtus du poinçon visé à l'article 213 dès la fin de la
-fabrication et avant tout polissage ou vernissage.
+Les ouvrages ((d'or ou contenant de l'or)), d'argent et de platine ((à tous titres non légaux)) (M) doivent être revêtus du
+poinçon visé à l'article 213 dès la fin de la fabrication et avant tout polissage ou vernissage.
 
 Les ouvrages qui ne sont pas marqués de ce poinçon en application des dispositions de l'article 545 du code général des
 impôts doivent être expédiés vers les autres états membres de la Communauté économique européenne ou exportés vers les pays
-tiers dans un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître (1).
+tiers dans un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître.
 
 Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
 disposition par l'administration et qui doit être représenté à toute réquisition des agents.
@@ -2453,7 +2401,7 @@ charge.
 Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
 sur ce registre pendant le mois précédent.
 
-(1) Dispositions en vigueur à compter du 1er janvier 1993.
+(M) Modifications.
 
 **Liens relatifs à cet article**
 
@@ -2464,114 +2412,13 @@ sur ce registre pendant le mois précédent.
 
 	**Modifié par**:
 
-	  - Loi - art. 38 (V) JORF 5 janvier 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Modifications incorporées dans l'édition du 2 septembre 1994
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
-
-
-###### Article 216
-
-Les objets d'or, d'argent et de platine à tous titres, ne peuvent être confondus dans les magasins avec les bijoux d'or,
-d'argent et de platine destinés au commerce intérieur.
-
-Des emplacements distincts leur sont réservés soit chez les fabricants, soit chez les commissionnaires ou marchands
-exportateurs.
-
-Ces emplacements doivent porter les inscriptions suivantes en caractères fixes et apparents :
-
-Exportation : objets d'or, d'argent ou de platine à tous titres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Modifié par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-###### Article 217
-
-Sauf pour les échantillons, dont la sortie temporaire des fabriques peut être nécessaire, la libre circulation des objets
-d'or, d'argent et de platine à tous titres est interdite.
-
-Les envois de fabricant à fabricant ou de fabricant à marchand exportateur, et vice-versa, ou encore ceux à destination de
-l'étranger, sont effectués en vertu de soumissions délivrées sur la déclaration des expéditeurs, qui s'engagent à les
-rapporter dans un délai de trois mois, revêtues, suivant le cas, soit d'un certificat de prise en charge, au compte du
-destinataire, soit d'un certificat de la douane constatant la sortie du territoire.
-
-Les envois à destination de l'étranger ne peuvent avoir lieu qu'en caisses scellées et plombées après vérification par les
-agents des bureaux de garantie. A cet effet, les caisses doivent être présentées au bureau de garantie par les soins et aux
-frais des exportateurs.
-
-Les objets réimportés sont, après reconnaissance, réintégrés chez le fabricant ou l'exportateur et repris en charge à son
-compte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Modifié par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-###### Article 219
-
-Un compte d'entrées et de sorties est ouvert à chaque fabricant et exportateur pour les objets d'or, d'argent et de platine à
-tous titres.
-
-Aux charges, on inscrit, d'une part, les objets fabriqués sur place, d'autre part, les objets reçus du dehors en vertu de
-soumissions régulières. Tout excédent constaté à la suite d'un recensement est saisi par procès-verbal et ajouté aux charges.
-
-Le compte est successivement déchargé :
-
-1° Des objets régulièrement expédiés soit à l'étranger, soit à l'intérieur;
-
-2° Des objets remis en fabrication et qui sont préalablement détruits en présence des agents;
-
-3° Des manquants constatés aux inventaires dans les conditions fixées par l'article 546 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 546
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Modifié par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-###### Article 220
-
-La réglementation des bijoux à tous titres est applicable aux médailles, jetons ou pièces de plaisir en or, argent ou
-platine, fabriqués à tous titres, en vue de l'exportation, par les industriels autorisés à frapper ou à faire frapper dans
-les ateliers privés, conformément aux prescriptions de l'article 9 du code des instruments monétaires et des médailles.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-	**Cite**:
-
-	  - Code des instruments monétaires et des médailles - art. 9 (M)
+	  - Décret n°94-899 1994-10-17
 
 
 #### Chapitre II : Garantie des matières d'or, d'argent et de platine
@@ -2693,6 +2540,193 @@ de la sortie du colis.
 	**Abrogé par**:
 
 	  - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
+
+
+##### II : Bijoux à tous titres non légaux
+
+###### Article 213
+
+L'empreinte du poinçon de maître des fabricants d'ouvrages d'or ou contenant de l'or, d'argent et de platine visés à
+l'article 545 du code général des impôts doit avoir la forme d'un pentagone irrégulier dont tous les côtés sont égaux et
+représentant un carré surmonté d'un triangle.
+
+Les proportions de ce poinçon sont fixées par le fabricant, selon le genre et la dimension de l'objet fabriqué.
+
+La lettre initiale du nom du fabricant et le symbole prévus à l'article 524 du code général des impôts doivent être empreints
+dans la partie supérieure du poinçon, et l'indication du titre de l'alliage doit être gravée en chiffres dans la partie
+inférieure.
+
+Ladite indication peut être exprimée, soit en millièmes, soit en carats. Le nombre indiquant les carats doit être suivi de la
+lettre C, et celui désignant les millièmes de la lettre M.
+
+Toute autre indication du titre de l'or, de l'argent ou du platine est interdite. Le poinçon doit être remplacé lorsque ces
+empreintes ne sont plus suffisamment nettes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 545, 524
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+
+###### Article 214
+
+Avant de commencer la fabrication des objets d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux,
+l'industriel est tenu de faire insculper au bureau de la garantie dont il dépend le poinçon de maître destiné à la marque de
+ces objets.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+
+###### Article 216
+
+Les objets d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux, ne peuvent être confondus dans les
+magasins avec les bijoux d'or ou contenant de l'or, d'argent et de platine destinés au commerce intérieur.
+
+Des emplacements distincts leur sont réservés soit chez les fabricants, soit chez les commissionnaires ou marchands
+exportateurs.
+
+Ces emplacements doivent porter les inscriptions suivantes en caractères fixes et apparents :
+
+Exportation : objets d'or ou contenant de l'or, d'argent ou de platine à tous titres non légaux.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+
+###### Article 217
+
+Sauf pour les échantillons, dont la sortie temporaire des fabriques peut être nécessaire, la libre circulation des objets
+d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux est interdite.
+
+Les envois de fabricant à fabricant ou de fabricant à marchand exportateur, et vice-versa, ou encore ceux à destination de
+l'étranger, sont effectués en vertu de soumissions délivrées sur la déclaration des expéditeurs, qui s'engagent à les
+rapporter dans un délai de trois mois, revêtues, suivant le cas, soit d'un certificat de prise en charge, au compte du
+destinataire, soit d'un certificat de la douane constatant la sortie du territoire.
+
+Les envois à destination de l'étranger ne peuvent avoir lieu qu'en caisses scellées et plombées après vérification par les
+agents des bureaux de garantie. A cet effet, les caisses doivent être présentées au bureau de garantie par les soins et aux
+frais des exportateurs.
+
+Les objets réimportés sont, après reconnaissance, réintégrés chez le fabricant ou l'exportateur et repris en charge à son
+compte.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+
+###### Article 219
+
+Un compte d'entrées et de sorties est ouvert à chaque fabricant, expéditeur intracommunautaire et exportateur pour les objets
+d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux.
+
+Aux charges, on inscrit, d'une part, les objets fabriqués sur place, d'autre part, les objets reçus du dehors en vertu de
+soumissions régulières. Tout excédent constaté à la suite d'un recensement est saisi par procès-verbal et ajouté aux charges.
+
+Le compte est successivement déchargé :
+
+1° Des objets régulièrement expédiés soit à l'étranger, soit à l'intérieur;
+
+2° Des objets remis en fabrication et qui sont préalablement détruits en présence des agents;
+
+3° Des manquants constatés aux inventaires dans les conditions fixées par l'article 546 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 546
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
+
+
+###### Article 220
+
+La réglementation des bijoux à tous titres non légaux est applicable aux médailles, jetons ou pièces de plaisir en or ou
+contenant de l'or, argent ou platine, fabriqués à tous titres non légaux, en vue de l'exportation ou de la livraison à
+destination d'un autre Etat membre de l'Union européenne, par les industriels autorisés à frapper ou à faire frapper dans les
+ateliers privés, conformément aux prescriptions de l'article 9 du code des instruments monétaires et des médailles.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Cite**:
+
+	  - Code des instruments monétaires et des médailles - art. 9 (M)
 
 
 ##### II : Bijoux à tous titres.
