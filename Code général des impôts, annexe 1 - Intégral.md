@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-07-12
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -445,19 +445,6 @@ alcools par un procédé différent du procédé général, ou de fabriquer des 
 	**Cite**:
 
 	  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 192
-
-En cas de cessation de leur industrie ou de retrait de l'autorisation administrative, les dénaturateurs, ainsi que les
-industriels autorisés à employer en franchise des droits de l'alcool sans dénaturation préalable, doivent expédier leur stock
-d'alcool nature à l'industriel désigné par le service des impôts et par la régie commerciale des alcools.
-
-**Liens relatifs à cet article**
 
 	**Liens**:
 
@@ -4246,6 +4233,23 @@ impôts.
 
 
 ##### Dispositions diverses.
+
+###### Article 192
+
+En cas de cessation de leur industrie ou de retrait de l'autorisation administrative, les dénaturateurs, ainsi que les
+industriels autorisés à employer en franchise des droits de l'alcool sans dénaturation préalable, doivent expédier leur stock
+d'alcool nature à l'industriel désigné par le service des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
 
 ###### Article 193
 
