@@ -1,31 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1987-08-10
-
-# ASSIETTE ET LIQUIDATION DE L'IMPOT
-
-## IMPOTS D'ETAT
-
-### CONTRIBUTIONS INDIRECTES
-
-#### BOISSONS
-
-##### REGIMES PARTICULIERS.
-
-###### Article 185
-
-Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
-alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
+Version Consolidée au 1988-06-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2023,6 +1997,25 @@ reconnus tels à dire d'experts en cas de contestation entre le fabricant et l'a
 
 
 ##### Dénaturation des alcools par un procédé spécial.
+
+###### Article 185
+
+Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
+alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
+
+Toutefois, les opérations de dénaturation de l'alcool éthylique destiné à être incorporé à du supercarburant et de l'essence
+sont effectuées sous la surveillance de l'administration des douanes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
+
+	**Modifié par**:
+
+	  - Décret n°88-766 du 22 juin 1988 - art. 2 (V) JORF 23 juin 1988
+
 
 ###### Article 186
 
