@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2005-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1469,40 +1469,36 @@ aux mêmes conditions que les fabricants.
 
 ###### Article 213
 
-L'empreinte du poinçon de maître des fabricants d'ouvrages d'or ou contenant de l'or, d'argent et de platine visés à
-l'article 545 du code général des impôts doit avoir la forme d'un pentagone irrégulier dont tous les côtés sont égaux et
-représentant un carré surmonté d'un triangle.
+L'empreinte du poinçon de maître des fabricants d'ouvrages d'or, d'argent et de platine visés à l'article 545 du code général
+des impôts doit avoir la forme d'un pentagone irrégulier dont tous les côtés sont égaux et représentant un carré surmonté
+d'un triangle. 
 
-Les proportions de ce poinçon sont fixées par le fabricant, selon le genre et la dimension de l'objet fabriqué.
+Les proportions de ce poinçon sont fixées par le fabricant, selon le genre et la dimension de l'objet fabriqué. 
 
 La lettre initiale du nom du fabricant et le symbole prévus à l'article 524 du code général des impôts doivent être empreints
 dans la partie supérieure du poinçon, et l'indication du titre de l'alliage doit être gravée en chiffres dans la partie
-inférieure.
+inférieure. 
 
 Ladite indication peut être exprimée, soit en millièmes, soit en carats. Le nombre indiquant les carats doit être suivi de la
-lettre C, et celui désignant les millièmes de la lettre M.
+lettre C, et celui désignant les millièmes de la lettre M. 
 
 Toute autre indication du titre de l'or, de l'argent ou du platine est interdite. Le poinçon doit être remplacé lorsque ces
 empreintes ne sont plus suffisamment nettes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 545, 524
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 89 () JORF 31 décembre 2004
 
 	**Codifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°2005-330 2005-04-06
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 524 (V)
+	  - Code général des impôts, CGI. - art. 545 (V)
 
 
 ###### Article 214
@@ -1529,8 +1525,8 @@ ces objets.
 
 ###### Article 215
 
-Les ouvrages d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux doivent être revêtus du poinçon visé
-à l'article 213 dès la fin de la fabrication et avant tout polissage ou vernissage.
+Les ouvrages d'or, d'argent et de platine à tous titres non légaux doivent être revêtus du poinçon visé à l'article 213 dès
+la fin de la fabrication et avant tout polissage ou vernissage.
 
 Les ouvrages qui ne sont pas marqués de ce poinçon en application des dispositions de l'article 545 du code général des
 impôts doivent être expédiés vers les autres états membres de la Communauté européenne ou exportés vers les pays tiers dans
@@ -1557,15 +1553,15 @@ sur ce registre pendant le mois précédent.
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 1er janvier 2005
 
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 89 () JORF 31 décembre 2004
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2005-330 2005-04-06
 
 
 ###### Article 216
