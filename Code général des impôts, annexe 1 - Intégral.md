@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1982-05-11
+Version Consolidée au 1983-07-02
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -533,37 +533,6 @@ Les ouvrages ainsi rapportés après achèvement sont vérifiés par le service 
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 212
-
-Les boîtes de montres en or fabriquées au quatrième titre pour l'exportation, conformément aux dispositions de l'article 544
-du code général des impôts, sont soumises à l'essai et à la marque dans les conditions fixées par la réglementation en
-vigueur.
-
-Ces opérations sont effectuées en franchise du droit de garantie.     Le poinçon spécial indiquant le titre représente une
-tête égyptienne. La contre-empreinte qui doit accompagner obligatoirement la tête égyptienne a la forme d'une ellipse dans
-laquelle sont inscrites les mentions "Exp." et en dessous "no 583 M". Cette empreinte doit être apposée au centre des fonds
-des boîtes.
-
-Toutefois, les fabricants d'horlogerie sont admis à exporter des boîtes de montres en or au quatrième titre, sans marque de
-garantie, ni de fabrique, dans les conditions fixées par les articles 204 à 211 pour l'exportation des ouvrages d'or,
-d'argent et de platine aux titres légaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 544
-	  - CGIAN1 204, 205, 206, 207, 208, 209, 210, 211
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
 ###### Article 215
 
 Les ouvrages d'or, d'argent et de platine à tous titres doivent être revêtus du poinçon visé à l'article 213 dès la fin de la
@@ -594,49 +563,6 @@ sur ce registre pendant le mois précédent.
 	**Modifié par**:
 
 	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-###### Article 216
-
-Les boîtes de montres en or, au quatrième titre, les objets d'or, d'argent et de platine à tous titres, ne peuvent être
-confondus dans les magasins avec les bijoux d'or, d'argent et de platine destinés au commerce intérieur.
-
-Des emplacements distincts leur sont réservés soit chez les fabricants, soit chez les commissionnaires ou marchands
-exportateurs.     Ces emplacements doivent porter les inscriptions suivantes en caractères fixes et apparents :
-
-Exportation : boîtes de montres en or au quatrième titre;
-
-Exportation : objets d'or, d'argent ou de platine à tous titres.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 217
-
-Sauf pour les échantillons, dont la sortie temporaire des fabriques peut être nécessaire, la libre circulation des boîtes de
-montres en or au quatrième titre et des objets d'or, d'argent et de platine à tous titres est interdite.
-
-Les envois de fabricant à fabricant ou de fabricant à marchand exportateur, et vice-versa, ou encore ceux à destination de
-l'étranger, sont effectués en vertu de soumissions délivrées sur la déclaration des expéditeurs, qui s'engagent à les
-rapporter dans un délai de trois mois, revêtues, suivant le cas, soit d'un certificat de prise en charge, au compte du
-destinataire, soit d'un certificat de la douane constatant la sortie du territoire.
-
-Les envois à destination de l'étranger ne peuvent avoir lieu qu'en caisses scellées et plombées après vérification par les
-agents des bureaux de garantie. A cet effet, les caisses doivent être présentées au bureau de garantie par les soins et aux
-frais des exportateurs.
-
-Les objets réimportés sont, après reconnaissance, réintégrés chez le fabricant ou l'exportateur et repris en charge à son
-compte.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 218
@@ -678,33 +604,6 @@ jusqu'à ce qu'il en soit décidé autrement par décret.
 	**Modifié par**:
 
 	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-###### Article 219
-
-Un compte d'entrées et de sorties est ouvert à chaque fabricant et exportateur pour les boîtes de montres en or au quatrième
-titre et pour les objets d'or, d'argent et de platine à tous titres.
-
-Aux charges, on inscrit, d'une part, les objets fabriqués sur place, d'autre part, les objets reçus du dehors en vertu de
-soumissions régulières. Tout excédent constaté à la suite d'un recensement est saisi par procès-verbal et ajouté aux charges.
-
-Le compte est successivement déchargé :
-
-1° Des objets régulièrement expédiés soit à l'étranger, soit à l'intérieur;
-
-2° Des objets remis en fabrication et qui sont préalablement détruits en présence des agents;
-
-3° Des manquants constatés aux inventaires dans les conditions fixées par l'article 546 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 546
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE.
@@ -4603,6 +4502,88 @@ insculper au bureau de la garantie dont il dépend le poinçon de maître destin
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+
+###### Article 216
+
+Les objets d'or, d'argent et de platine à tous titres, ne peuvent être confondus dans les magasins avec les bijoux d'or,
+d'argent et de platine destinés au commerce intérieur.
+
+Des emplacements distincts leur sont réservés soit chez les fabricants, soit chez les commissionnaires ou marchands
+exportateurs.
+
+Ces emplacements doivent porter les inscriptions suivantes en caractères fixes et apparents :
+
+Exportation : objets d'or, d'argent ou de platine à tous titres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+
+###### Article 217
+
+Sauf pour les échantillons, dont la sortie temporaire des fabriques peut être nécessaire, la libre circulation des objets
+d'or, d'argent et de platine à tous titres est interdite.
+
+Les envois de fabricant à fabricant ou de fabricant à marchand exportateur, et vice-versa, ou encore ceux à destination de
+l'étranger, sont effectués en vertu de soumissions délivrées sur la déclaration des expéditeurs, qui s'engagent à les
+rapporter dans un délai de trois mois, revêtues, suivant le cas, soit d'un certificat de prise en charge, au compte du
+destinataire, soit d'un certificat de la douane constatant la sortie du territoire.
+
+Les envois à destination de l'étranger ne peuvent avoir lieu qu'en caisses scellées et plombées après vérification par les
+agents des bureaux de garantie. A cet effet, les caisses doivent être présentées au bureau de garantie par les soins et aux
+frais des exportateurs.
+
+Les objets réimportés sont, après reconnaissance, réintégrés chez le fabricant ou l'exportateur et repris en charge à son
+compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+
+###### Article 219
+
+Un compte d'entrées et de sorties est ouvert à chaque fabricant et exportateur pour les objets d'or, d'argent et de platine à
+tous titres.
+
+Aux charges, on inscrit, d'une part, les objets fabriqués sur place, d'autre part, les objets reçus du dehors en vertu de
+soumissions régulières. Tout excédent constaté à la suite d'un recensement est saisi par procès-verbal et ajouté aux charges.
+
+Le compte est successivement déchargé :
+
+1° Des objets régulièrement expédiés soit à l'étranger, soit à l'intérieur;
+
+2° Des objets remis en fabrication et qui sont préalablement détruits en présence des agents;
+
+3° Des manquants constatés aux inventaires dans les conditions fixées par l'article 546 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 546
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 	**Modifié par**:
 
