@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1981-01-18
+Version Consolidée au 1981-07-01
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -645,56 +645,7 @@ Le visa doit être réclamé à l'instant même où le chargement parvient au po
 	  - Décret n°86-1087 1986-10-07
 
 
-##### COMMERCE
-
-###### Article 161
-
-Toute opération de fabrication doit être précédée d'une déclaration, faite une heure au moins à l'avance et énonçant : le
-numéro d'ordre des alambics ou vaisseaux dans lesquels le versement doit être effectué ; la situation des alambics ou
-vaisseaux s'ils n'ont pas été préalablement vidés ; les quantités d'esprit en nature (volume, degré, alcool pur) à verser
-directement dans chacun des alambics ou dans les vaisseaux servant aux opérations de fabrication ; l'heure à laquelle
-commencera et l'heure à laquelle s'achèvera le versement des alcools.
-
-A la fin de l'opération, la déclaration est complétée par l'indication du volume total occupé par le liquide et les matières
-sur lesquelles il a été versé ainsi que celle du degré alcoolique desdits produits.
-
-Il ne doit être fait aucun soutirage pendant l'heure qui suit le versement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### REGIMES PARTICULIERS.
-
-###### Article 174
-
-Chez les dénaturateurs d'alcool par le procédé général, il est tenu un compte d'alcool en nature.
-
-Ce compte est chargé en volume et en alcool pur déterminé au dixième de degré :
-
-1° Des quantités d'alcool régulièrement introduites dans l'établissement ;
-
-2° Des excédents constatés lors des inventaires.
-
-Il est déchargé dans les mêmes conditions :
-
-1° Des quantités d'alcool reconnues par le service et régulièrement dénaturées ;
-
-2° De la quantité représentée par les échantillons prélevés ;
-
-3° Des manquants apparaissant aux inventaires.
-
-Le service procède au moins à deux inventaires par an.
-
-Tout excédent est ajouté aux charges du compte et saisi par procès-verbal.
-
-Les manquants sont portés en décharge et, après allocation des déductions réglementaires, soumis au droit de consommation et
-à la taxe sur la valeur ajoutée.
-
-
 
 ###### Article 177
 
@@ -4167,6 +4118,34 @@ indélébiles.
 	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
+###### Article 161
+
+Toute opération de fabrication doit être précédée d'une déclaration, faite une heure à l'avance et énonçant : le numéro
+d'ordre des alambics ou vaisseaux dans lesquels le versement doit être effectué ; la situation des alambics ou vaisseaux
+s'ils n'ont pas été préalablement vidés ; les quantités d'esprit en nature (volume, titre alcoométrique volumique, alcool
+pur) à verser directement dans chacun des alambics ou dans les vaisseaux servant aux opérations de fabrication ; l'heure à
+laquelle commencera et l'heure à laquelle s'achèvera le versement des alcools.
+
+A la fin de l'opération, la déclaration est complétée par l'indication du volume total occupé par le liquide et les matières
+sur lesquelles il a été versé ainsi que celle du titre alcoométrique volumique desdits produits.
+
+Il ne doit être fait aucun soutirage pendant l'heure qui suit le versement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 art. 3 JORF 11 mars 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+
+
 ###### Article 162
 
 Les industriels souscrivant tous les jours des déclarations de fabrication peuvent être autorisés à consigner ces
@@ -4284,6 +4263,46 @@ obligations des distillateurs de profession.
 	**Cite**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 167 (V)
+
+
+###### Article 174
+
+Chez les dénaturateurs d'alcool par le procédé général, il est tenu un compte d'alcool en nature.
+
+Ce compte est chargé en volume et en alcool pur déterminé à partir du titre alcoométrique volumique lu estimé au dixième :
+
+1° Des quantités d'alcool régulièrement introduites dans l'établissement ;
+
+2° Des excédents constatés lors des inventaires.
+
+Il est déchargé dans les mêmes conditions :
+
+1° Des quantités d'alcool reconnues par le service et régulièrement dénaturées ;
+
+2° De la quantité représentée par les échantillons prélevés ;
+
+3° Des manquants apparaissant aux inventaires.
+
+Le service procède au moins à deux inventaires par an.
+
+Tout excédent est ajouté aux charges du compte et saisi par procès-verbal.
+
+Les manquants sont portés en décharge et, après allocation des déductions réglementaires, soumis au droit de consommation et
+à la taxe sur la valeur ajoutée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 art. 3, art. 4 JORF 11 mars 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ###### Article 176
