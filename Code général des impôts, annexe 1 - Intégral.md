@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2006-05-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1369,27 +1369,23 @@ d'alcool nature à l'industriel désigné par le directeur régional des douanes
 
 ###### Article 204
 
-Tout fabricant qui veut exporter ou livrer à destination d'un autre Etat membre de l'Union européenne des ouvrages d'or ou
-contenant de l'or, des ouvrages d'argent ou des ouvrages de platine sans apposition des poinçons français doit en faire la
-déclaration préalable au bureau de garantie dont il relève. Cette déclaration indique le nombre, l'espèce et le poids des
-ouvrages et contient un engagement de les exporter ou de les livrer à destination d'un autre Etat membre de l'Union
-européenne dans un délai de trois mois à compter de cette déclaration. Le fabricant peut les présenter à l'essai achevés avec
-ou sans marque de poinçon de maître.
+Tout fabricant qui veut exporter ou livrer à destination d'un autre Etat membre de l'Union européenne des ouvrages d'or, des
+ouvrages d'argent ou des ouvrages de platine sans apposition des poinçons français doit en faire la déclaration préalable au
+bureau de garantie dont il relève. Cette déclaration indique le nombre, l'espèce et le poids des ouvrages et contient un
+engagement de les exporter ou de les livrer à destination d'un autre Etat membre de l'Union européenne dans un délai de trois
+mois à compter de cette déclaration. Le fabricant peut les présenter à l'essai achevés avec ou sans marque de poinçon de
+maître.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-587 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 206 (V)
 	  - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 205
@@ -1503,24 +1499,18 @@ empreintes ne sont plus suffisamment nettes.
 
 ###### Article 214
 
-Avant de commencer la fabrication des objets d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux,
-l'industriel est tenu de faire insculper au bureau de la garantie dont il dépend le poinçon de maître destiné à la marque de
-ces objets.
+Avant de commencer la fabrication des objets d'or, d'argent et de platine à tous titres non légaux, l'industriel est tenu de
+faire insculper au bureau de la garantie dont il dépend le poinçon de maître destiné à la marque de ces objets.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°94-899 1994-10-17
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 215
@@ -1532,17 +1522,14 @@ Les ouvrages qui ne sont pas marqués de ce poinçon en application des disposit
 impôts doivent être expédiés vers les autres états membres de la Communauté européenne ou exportés vers les pays tiers dans
 un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître.
 
-Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
-disposition par l'administration et qui doit être représenté à toute réquisition des agents.
+Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre qui doit être
+représenté à toute réquisition des agents.
 
 L'inscription au registre présente la nature des objets par espèce de métal, or, argent ou platine, leur nombre, leur titre,
 leur poids brut, et, pour les objets composés de pièces rapportées de métaux différents, le poids de chaque espèce de métal.
 
 Le fabricant est tenu d'inscrire également, après le polissage, le poids net des ouvrages pour servir de base à la prise en
 charge.
-
-Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
-sur ce registre pendant le mois précédent.
 
 **Liens relatifs à cet article**
 
@@ -1551,183 +1538,82 @@ sur ce registre pendant le mois précédent.
 	  - CGI 545
 	  - CGIAN1 213
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 89 () JORF 31 décembre 2004
+	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 216
 
-Les objets d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux, ne peuvent être confondus dans les
-magasins avec les bijoux d'or ou contenant de l'or, d'argent et de platine destinés au commerce intérieur.
+Les objets d'or, d'argent et de platine à tous titres non légaux, ne peuvent être confondus dans les magasins avec les bijoux
+d'or, d'argent et de platine destinés au commerce intérieur.
 
 Des emplacements distincts leur sont réservés soit chez les fabricants, soit chez les commissionnaires ou marchands
 exportateurs.
 
 Ces emplacements doivent porter les inscriptions suivantes en caractères fixes et apparents :
 
-Exportation : objets d'or ou contenant de l'or, d'argent ou de platine à tous titres non légaux.
+Exportation : objets d'or, d'argent ou de platine à tous titres non légaux.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°94-899 1994-10-17
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 217
 
 Sauf pour les échantillons, dont la sortie temporaire des fabriques peut être nécessaire, la libre circulation des objets
-d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux est interdite.
+d'or, d'argent et de platine à tous titres non légaux est interdite.
 
-Les envois de fabricant à fabricant ou de fabricant à marchand exportateur, et vice-versa, ou encore ceux à destination de
-l'étranger, sont effectués en vertu de soumissions délivrées sur la déclaration des expéditeurs, qui s'engagent à les
-rapporter dans un délai de trois mois, revêtues, suivant le cas, soit d'un certificat de prise en charge, au compte du
-destinataire, soit d'un certificat de la douane constatant la sortie du territoire.
-
-Les envois à destination de l'étranger ne peuvent avoir lieu qu'en caisses scellées et plombées après vérification par les
-agents des bureaux de garantie. A cet effet, les caisses doivent être présentées au bureau de garantie par les soins et aux
-frais des exportateurs.
+Les envois de fabricant à fabricant ou de fabricant à marchand exportateur, et vice versa, ou encore ceux à destination de
+l'étranger, sont faits après dépôt d'une déclaration préalable par le fabricant au bureau de garantie dont il relève. Cette
+déclaration indique le nombre, l'espèce et le poids des ouvrages et contient un engagement de les livrer à leurs
+destinataires respectifs, de les exporter ou de les livrer à destination d'un autre Etat membre de la Communauté européenne
+dans un délai de trois mois à compter de cette déclaration.
 
 Les objets réimportés sont, après reconnaissance, réintégrés chez le fabricant ou l'exportateur et repris en charge à son
 compte.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
-
-	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-
-###### Article 218
-
-Les fabricants et marchands exportateurs qui en font la demande peuvent être dispensés par autorisation individuelle accordée
-par le directeur régional des douanes et droits indirects des formalités prévues à l'article 217, deuxième et troisième
-alinéas, sous réserve :
-
-1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur et à mesure des livraisons, le titre, le
-nombre par espèce d'objets semblables et le poids net des ouvrages expédiés à l'étranger ou à un autre marchand jouissant de
-la même autorisation, avec l'indication du nom et de l'adresse du destinataire, et que ces indications soient reproduites sur
-le relevé mensuel fourni au bureau de garantie en exécution dudit article 215.
-
-Pour les expéditions à l'étranger ces indications sont complétées par celle de la valeur des ouvrages ;
-
-2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de l'autorisation susvisée à un autre marchand
-exportateur, également muni de cette autorisation, donne lieu à l'échange d'un avis de livraison et d'un accusé de réception,
-signés et datés, le premier par l'expéditeur, et le deuxième par le destinataire, chacune de ces pièces reproduisant les
-mentions prescrites par le 1°, et que les intéressés soient tenus de représenter ces pièces pendant le délai d'un an, à toute
-réquisition des agents de la garantie.
-
-Les autorisations accordées en exécution du présent article sont renouvelables au 1er janvier de chaque année. Elles sont
-révocables en tout temps.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 217, 215
-
-	**Modifié par**:
-
-	  - Décret n°97-1195 1997-12-24 art. 7 18, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
-
-	**Abrogé par**:
 
 	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
 
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 219
-
-Un compte d'entrées et de sorties est ouvert à chaque fabricant, expéditeur intracommunautaire et exportateur pour les objets
-d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux.
-
-Aux charges, on inscrit, d'une part, les objets fabriqués sur place, d'autre part, les objets reçus du dehors en vertu de
-soumissions régulières. Tout excédent constaté à la suite d'un recensement est saisi par procès-verbal et ajouté aux charges.
-
-Le compte est successivement déchargé :
-
-1° Des objets régulièrement expédiés soit à l'étranger, soit à l'intérieur;
-
-2° Des objets remis en fabrication et qui sont préalablement détruits en présence des agents;
-
-3° Des manquants constatés aux inventaires dans les conditions fixées par l'article 546 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 546
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
 
 
 ###### Article 220
 
-La réglementation des bijoux à tous titres non légaux est applicable aux médailles, jetons ou pièces de plaisir en or ou
-contenant de l'or, argent ou platine, fabriqués à tous titres non légaux, en vue de l'exportation ou de la livraison à
-destination d'un autre Etat membre de l'Union européenne, par les industriels autorisés à frapper ou à faire frapper dans les
-ateliers privés, conformément aux prescriptions de l'article 9 du code des instruments monétaires et des médailles.
+La réglementation des bijoux à tous titres non légaux est applicable aux médailles, jetons ou pièces de plaisir en or, argent
+ou platine, fabriqués à tous titres non légaux, en vue de l'exportation ou de la livraison à destination d'un autre Etat
+membre de l'Union européenne, par les industriels autorisés à frapper ou à faire frapper dans les ateliers privés,
+conformément aux prescriptions de l'article 9 du code des instruments monétaires et des médailles.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-	  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°2006-514 du 4 mai 2006 - art. 1 () JORF 6 mai 2006
 
 	**Cite**:
 
 	  - Code des instruments monétaires et des médailles - art. 9 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
