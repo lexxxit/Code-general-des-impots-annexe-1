@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2006-05-06
+Version Consolidée au 2006-05-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -835,13 +835,30 @@ récipients, canalisations, déclarés vides par l'exploitant lors d'une vérifi
 ###### Article 77
 
 L'exploitant est tenu, dans un délai d'un mois à compter du jour où il en a été requis, de supprimer, au moyen d'une
-séparation agréée par l'administration, les communications interdites par l'article 336 du code général des impôts.
+séparation agréée par le directeur régional des douanes et droits indirects territorialement compétent, les communications
+interdites par l'article 336 du code général des impôts.
+
+**Nota:**
+
+En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015, cet article devient sans objet.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016, article 7
+
+	**Modifié par**:
+
+	  - Décret n°2006-532 du 11 mai 2006 - art. 1 () JORF 12 mai 2006
+
+	**Liens**:
+
+	  - PERIME: Décret n°2016-775 du 10 juin 2016 - art. 2
+
 	**Cite**:
 
-	  - CGI 336
+	  - Code général des impôts, CGI. - art. 336
 
 
 ##### 3° : Régime spécial
@@ -1179,27 +1196,27 @@ Les alcools dénaturés par le procédé général, ainsi que les produits fabri
 ###### Article 180
 
 Les vaisseaux servant au transport des alcools dénaturés par le procédé général doivent porter, gravés ou peints en caractère
-d'au moins 3 centimètres de hauteur, les mots "alcool dénaturé". Ces mots sont également inscrits sur les étiquettes des
+d'au moins 3 centimètres de hauteur, les mots " alcool dénaturé ". Ces mots sont également inscrits sur les étiquettes des
 bouteilles. Les caractéristiques des emballages utilisés pour la détention et la commercialisation des alcools dénaturés
 renfermant de l'alcool méthylique et des étiquettes à apposer sur ces emballages sont fixées par un arrêté pris en
-application de l'article L 231-6 du code du travail (1).
+application de l'article L. 231-6 du code du travail. 
 
 Les alcools dénaturés ne peuvent être soumis, en aucun lieu, à aucun coupage, à aucune décantation ou rectification, ni à
-aucune autre opération ayant pour but de désinfecter ou de revivifier l'alcool.
+aucune autre opération ayant pour but de désinfecter ou de revivifier l'alcool. 
 
-Ils ne peuvent être ni abaissés de titre, ni additionnés de substances non prévues par les décisions du ministre de
-l'économie et des finances.
-
-**Nota:**
-
-(1) Arrêté du 25 juin 1975 (J.O. des 18 et 19 août).
+Ils ne peuvent être ni abaissés de titre, ni additionnés de substances non prévues par les décisions du directeur régional
+des douanes et droits indirects territorialement compétent, après avis du service des laboratoires de la direction générale
+des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-532 du 11 mai 2006 - art. 1 () JORF 12 mai 2006
+
 	**Cite**:
 
-	  - Arrêté 1975-06-25
-	  - Code du travail - art. L231-6 (M)
+	  - Code du travail - art. L231-6 (Ab)
 
 
 ###### Article 181
@@ -1422,25 +1439,23 @@ qui ont fait l'objet de la déclaration visée à cet article réimportés ou r�
 l'Union européenne. La décharge s'opère, dans le délai de trois mois, soit par la justification de l'exportation dans les
 formes prescrites ou de la livraison à destination d'un autre Etat membre de l'Union européenne par tout document probant,
 soit par la prise en charge au compte d'un commerçant ou d'un marchand en gros dans les conditions prévues à l'article 210,
-soit par la remise en fabrication d'ouvrages refondus après accord exprès du service de la garantie.
+soit par la remise en fabrication d'ouvrages refondus après accord exprès du directeur régional des douanes et droits
+indirects territorialement compétent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN1 204, 210
-
 	**Modifié par**:
 
-	  - Décret n°95-1137 du 23 octobre 1995 - art. 5 () JORF 28 octobre 1995
+	  - Décret n°2006-532 du 11 mai 2006 - art. 1 () JORF 12 mai 2006
+
+	**Cite**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 204 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 210 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 210
