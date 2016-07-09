@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2016-06-13
+Version Consolidée au 2016-07-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -418,8 +418,9 @@ droits sans préjudice des pénalités encourues en cas d'enlèvement sans valid
 
 Les brûleries coopératives ou syndicales des récoltants sont soumises aux dispositions suivantes : 
 
-Les gérants ou délégués doivent fournir, huit jours au moins avant toute opération, au directeur régional des douanes et
-droits indirects, la justification de la constitution régulière de l'association, les statuts, une liste des membres de
+Les gérants ou délégués doivent fournir, huit jours au moins avant toute opération, au directeur interrégional des douanes et
+droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au directeur régional des douanes et droits
+indirects, la justification de la constitution régulière de l'association, les statuts, une liste des membres de
 l'association indiquant les nom, prénoms et domicile de chacun d'eux, avec la date de son admission, un plan intérieur avec
 légende permettant de constater que les locaux satisfont aux prescriptions de l'article 320, deuxième alinéa, du code général
 des impôts, enfin la justification de leur propre qualité de délégué ou de gérant. 
@@ -434,13 +435,12 @@ complétée par l'indication des alcools (volume et richesse alcoolique) existan
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 10 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cite**:
 
-	  - Code général des impôts annexe 1, CGIAN1. - art. 39 (V)
-	  - Code général des impôts, CGI. - art. 320 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 39
+	  - Code général des impôts, CGI. - art. 320
 
 
 ###### Article 55
@@ -849,7 +849,7 @@ Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 2
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cite**:
 
@@ -1008,8 +1008,8 @@ Toute modification de la contenance des réservoirs doit être précédée d'une
 
 ###### Article 165
 
-Toute personne qui se propose de dénaturer des alcools par le procédé général visé à l'article 511 du code général des impôts
-doit adresser une demande au directeur régional des douanes et droits indirects. 
+Toute personne qui se propose de dénaturer des alcools par le procédé général mentionné au a du I de l'article 302 D bis du
+code général des impôts doit adresser une demande au directeur interrégional des douanes et droits indirects. 
 
 La demande doit indiquer si l'intéressé veut dénaturer l'alcool en vue de la vente ou pour les besoins de son industrie, et,
 dans ce dernier cas, préciser la nature des produits qui seront fabriqués avec cet alcool et s'il sera procédé à la
@@ -1025,17 +1025,16 @@ Les modifications ultérieures sont déclarées à l'avance et elles donnent lie
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 30 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 185 (V)
-	  - Code général des impôts annexe 1, CGIAN1. - art. 186 (M)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 186 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 511 (Ab)
+	  - Code général des impôts, CGI. - art. 302 D bis (VT)
 
 
 ###### Article 167
@@ -1049,19 +1048,20 @@ où sont placés les alcools dénaturés et les produits fabriqués avec ces alc
 voie publique avec les locaux contenant des alambics ou avec ceux où se trouvent des alcools non dénaturés destinés à la
 vente.
 
-Toutefois, le directeur régional des douanes et droits indirects peut admettre des communications autrement que par la voie
-publique entre, d'une part, les locaux affectés à la dénaturation et au logement des alcools et, d'autre part, les locaux où
-se trouvent des alcools non dénaturés destinés à la vente, à la condition que les locaux visés soient complètement séparés.
+Toutefois, le directeur interrégional des douanes et droits indirects peut admettre des communications autrement que par la
+voie publique entre, d'une part, les locaux affectés à la dénaturation et au logement des alcools et, d'autre part, les
+locaux où se trouvent des alcools non dénaturés destinés à la vente, à la condition que les locaux visés soient complètement
+séparés.
 
-En outre, si la nature des fabrications exige l'emploi d'appareils de distillation ou de rectification, le directeur régional
-des douanes et droits indirects peut autoriser, aux conditions qu'il détermine, l'installation de ces appareils dans les
-locaux affectés à la dénaturation ou à l'emmagasinement des alcools dénaturés.
+En outre, si la nature des fabrications exige l'emploi d'appareils de distillation ou de rectification, le directeur
+interrégional des douanes et droits indirects peut autoriser, aux conditions qu'il détermine, l'installation de ces appareils
+dans les locaux affectés à la dénaturation ou à l'emmagasinement des alcools dénaturés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 7 11, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cité par**:
 
@@ -1117,20 +1117,18 @@ obligations des distillateurs de profession.
 
 ###### Article 170
 
-Des décisions du ministre de l'économie et des finances prises sur l'avis du service des laboratoires de la direction
-générale des douanes et droits indirects déterminent les conditions que doivent remplir les alcools présentés à la
-dénaturation.
+Le directeur interrégional des douanes et droits indirects détermine, après avis du service commun des laboratoires, les
+conditions que doivent remplir les alcools présentés à la dénaturation.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
-
 	**Codifié par**:
 
-	  - Décret n°89-801 1989-10-27
+	  - Décret n°89-801 du 27 octobre 1989
+
+	**Modifié par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 
 ###### Article 173
@@ -1179,19 +1177,18 @@ application de l'article L. 231-6 du code du travail.
 Les alcools dénaturés ne peuvent être soumis, en aucun lieu, à aucun coupage, à aucune décantation ou rectification, ni à
 aucune autre opération ayant pour but de désinfecter ou de revivifier l'alcool. 
 
-Ils ne peuvent être ni abaissés de titre, ni additionnés de substances non prévues par les décisions du directeur régional
-des douanes et droits indirects territorialement compétent, après avis du service des laboratoires de la direction générale
-des douanes et droits indirects.
+Ils ne peuvent être ni abaissés de titre, ni additionnés de substances non prévues par les décisions du directeur
+interrégional des douanes et droits indirects territorialement compétent, après avis du service commun des laboratoires.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-532 du 11 mai 2006 - art. 1 () JORF 12 mai 2006
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cite**:
 
-	  - Code du travail - art. L231-6 (Ab)
+	  - Code du travail - art. L231-6
 
 
 ###### Article 181
@@ -1262,14 +1259,13 @@ suivantes :
 
 2° La quantité approximative d'alcool nécessaire pour les fabrications d'une année. 
 
-Le directeur régional des douanes et droits indirects statue après avis du service des laboratoires de la direction générale
-des douanes et droits indirects.
+Le directeur interrégional des douanes et droits indirects statue après avis du service commun des laboratoires.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 7 14, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cite**:
 
@@ -1278,26 +1274,25 @@ des douanes et droits indirects.
 
 ###### Article 188
 
-Sauf dérogation accordée par le directeur régional des douanes et droits indirects aux conditions qu'il détermine, les
+Sauf dérogation accordée par le directeur interrégional des douanes et droits indirects aux conditions qu'il détermine, les
 alcools dénaturés par un procédé spécial doivent être utilisés au lieu même de leur dénaturation à la fabrication de produits
-achevés, industriels et marchands, reconnus tels à dire d'experts en cas de contestation entre le fabricant et
-l'administration.
+achevés, industriels et marchands.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 7 15, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cité par**:
 
-	  - Code général des impôts annexe 1, CGIAN1. - art. 189 (M)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 189 (V)
 
 
 ###### Article 189
 
 Les produits à base d'alcool dénaturé par un procédé spécial circulent librement s'ils ne renferment pas d'alcool non
-transformé ou s'ils ont le caractère de produits achevés, définis à l'article 188. 
+transformé ou s'ils ont le caractère de produits achevés, visés à l'article 188. 
 
 Si, ne présentant pas ce caractère, ces produits contiennent encore de l'alcool à l'état libre, le service des douanes et
 droits indirects peut, sur l'avis du service des laboratoires de la direction générale des douanes et droits indirects, les
@@ -1307,8 +1302,7 @@ dispenser des formalités à la circulation.
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 38 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cite**:
 
@@ -1320,7 +1314,7 @@ dispenser des formalités à la circulation.
 ###### Article 190
 
 Lorsque pour des raisons d'ordre économique ou technique l'emploi d'alcool dénaturé par le procédé général ou par un procédé
-spécial s'avère impossible, le directeur régional des douanes et droits indirects peut autoriser, aux conditions qu'il
+spécial s'avère impossible, le directeur interrégional des douanes et droits indirects peut autoriser, aux conditions qu'il
 détermine, les personnes qui en font la demande à utiliser pour leurs fabrications, en franchise de droits, de l'alcool non
 dénaturé.
 
@@ -1328,7 +1322,7 @@ dénaturé.
 
 	**Modifié par**:
 
-	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 
 ###### Article 191
@@ -1344,13 +1338,13 @@ transformé.
 
 En cas de cessation de leur industrie ou de retrait de l'autorisation administrative, les dénaturateurs, ainsi que les
 industriels autorisés à employer en franchise des droits de l'alcool sans dénaturation préalable, doivent expédier leur stock
-d'alcool nature à l'industriel désigné par le directeur régional des douanes et droits indirects.
+d'alcool nature à l'industriel désigné par le directeur interrégional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 7 17, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 
 #### Chapitre II : Garantie des matières d'or, d'argent et de platine
@@ -1414,19 +1408,20 @@ qui ont fait l'objet de la déclaration visée à cet article réimportés ou r�
 l'Union européenne. La décharge s'opère, dans le délai de trois mois, soit par la justification de l'exportation dans les
 formes prescrites ou de la livraison à destination d'un autre Etat membre de l'Union européenne par tout document probant,
 soit par la prise en charge au compte d'un commerçant ou d'un marchand en gros dans les conditions prévues à l'article 210,
-soit par la remise en fabrication d'ouvrages refondus après accord exprès du directeur régional des douanes et droits
-indirects territorialement compétent.
+soit par la remise en fabrication d'ouvrages refondus après accord exprès du directeur interrégional des douanes et droits
+indirects territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au directeur régional des
+douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-532 du 11 mai 2006 - art. 1 () JORF 12 mai 2006
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
 
 	**Cite**:
 
-	  - Code général des impôts annexe 1, CGIAN1. - art. 204 (V)
-	  - Code général des impôts annexe 1, CGIAN1. - art. 210 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 204
+	  - Code général des impôts annexe 1, CGIAN1. - art. 210
 
 	**Cité par**:
 
